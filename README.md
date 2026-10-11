@@ -38,7 +38,7 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | Conference League | 206 | 58,7 % |
 | Championship | 107 | 46,7 % |
 | Nations League | 104 | 62,5 % |
-| WM2026 | 104 | 62,5 % |
+| WM 2026 | 104 | 62,5 % |
 | League One | 102 | 44,1 % |
 | Superettan | 95 | 45,3 % |
 | La Liga 2 | 92 | 47,8 % |
