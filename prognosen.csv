@@ -3530,6 +3530,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-11,AT2,Admira Wacker,Voitsberg,1,2:1,"Über 1,5 Tore",0.7973,3:2,1,0,1,0.224
 2026-10-11,BE1,St. Gilloise,Oud-Heverlee Leuven,1,2:0,"Über 1,5 Tore",0.8397,1:1,0,0,1,0.301
 2026-10-11,BE1,Standard,Charleroi,2,1:2,"Unter 3,5 Tore",0.6938,0:1,1,0,1,0.235
+2026-10-11,BE1,Westerlo,Antwerp,1,2:1,"Über 1,5 Tore",0.8214,5:1,1,0,1,0.166
 2026-10-11,BL1,FC Koln,M'gladbach,1,2:1,"Über 1,5 Tore",0.8293,2:1,1,1,1,0.168
 2026-10-11,BL1,Freiburg,Schalke 04,1,2:1,"Über 1,5 Tore",0.7964,2:1,1,1,1,0.1
 2026-10-11,BL2,Bochum,Bielefeld,1,2:1,"Über 1,5 Tore",0.7897,0:1,0,0,0,0.35
@@ -3549,10 +3550,12 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-11,EN1,Hull,Everton,2,0:1,"Unter 3,5 Tore",0.7336,2:2,0,0,0,0.146
 2026-10-11,EN1,Liverpool,Man City,2,1:2,Remis o. Man City,0.7197,0:3,1,0,1,0.187
 2026-10-11,EN2,Southampton,Portsmouth,1,2:0,"Über 1,5 Tore",0.794,1:0,1,0,0,0.083
+2026-10-11,ES1,Betis,Osasuna,1,2:0,"Über 1,5 Tore",0.781,5:2,1,0,1,0.078
 2026-10-11,ES1,Elche,Celta,X,1:1,"Über 1,5 Tore",0.725,0:0,1,0,0,0.127
 2026-10-11,ES1,Sociedad,La Coruna,1,1:0,"Unter 3,5 Tore",0.6707,3:2,1,0,0,0.108
 2026-10-11,ES2,Almeria,Leganes,1,1:0,"Unter 3,5 Tore",0.6719,3:0,1,0,1,0.087
 2026-10-11,ES2,Andorra,Castellon,2,1:2,Remis o. Castellon,0.7165,1:0,0,0,0,0.359
+2026-10-11,ES2,Mallorca,Las Palmas,1,1:0,"Unter 3,5 Tore",0.6973,3:1,1,0,0,0.092
 2026-10-11,FI1,Inter Turku,KuPS,1,1:0,"Unter 3,5 Tore",0.7617,1:0,1,1,1,0.194
 2026-10-11,FI2,SJK Akatemia,KTP,2,0:2,Sieg KTP,0.6811,4:3,0,0,0,0.605
 2026-10-11,FR1,Nice,Strasbourg,1,2:1,Nice o. Remis,0.67,2:1,1,1,1,0.234
@@ -3594,6 +3597,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-11,PL2,LKS Lodz,Ruch Chorzow,1,1:0,"Unter 3,5 Tore",0.7126,0:2,0,0,1,0.305
 2026-10-11,PL2,Puszcza,Polonia Bytom,X,1:1,"Über 1,5 Tore",0.7437,0:1,0,0,0,0.281
 2026-10-11,PL2,Stal Mielec,Warta Poznan,2,1:2,"Unter 3,5 Tore",0.6386,2:1,0,0,1,0.272
+2026-10-11,PT1,Benfica,Guimaraes,1,2:0,"Über 1,5 Tore",0.8381,2:0,1,1,1,0.026
 2026-10-11,PT1,Rio Ave,Nacional,1,1:0,"Unter 3,5 Tore",0.7358,3:2,1,0,0,0.19
 2026-10-11,SA1,Al-Fayha,Al Riyadh,1,1:0,"Unter 3,5 Tore",0.7194,1:1,0,0,1,0.14
 2026-10-11,SC1,Aberdeen,St Johnstone,1,1:0,"Unter 3,5 Tore",0.7189,0:1,0,0,1,0.38

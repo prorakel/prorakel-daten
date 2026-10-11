@@ -5,10 +5,10 @@ Jede Prognose der [Prorakel-Engine](https://prorakel.de/so-funktionierts?via=git
 danebenlagen. Täglich aktualisiert. Dieselben Zeilen stehen in der
 [Bilanz auf prorakel.de](https://prorakel.de/bilanz?via=github).
 
-**Stand 11.10.2026:** 3.609 ausgewertete Spiele aus 64 Wettbewerben,
+**Stand 11.10.2026:** 3.613 ausgewertete Spiele aus 64 Wettbewerben,
 2026-06-11 bis 2026-10-11. Die Tendenz (Heimsieg, Unentschieden, Auswärtssieg) traf in
-53,1 % der 3.609 Spiele (1.917), die Stärkste Ansage in
-75,4 % (2.720), das exakte Ergebnis in 10,8 % (390).
+53,2 % der 3.613 Spiele (1.921), die Stärkste Ansage in
+75,4 % (2.723), das exakte Ergebnis in 10,8 % (391).
 
 ## Datei
 
@@ -41,7 +41,7 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | WM 2026 | 104 | 62,5 % |
 | League One | 102 | 44,1 % |
 | Superettan | 95 | 45,3 % |
-| La Liga 2 | 92 | 47,8 % |
+| La Liga 2 | 93 | 48,4 % |
 | 1. Lig | 90 | 46,7 % |
 | DBU Pokalen | 88 | 50,0 % |
 | I Liga | 87 | 37,9 % |
@@ -50,13 +50,13 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | Allsvenskan | 83 | 50,6 % |
 | Champions League | 80 | 58,8 % |
 | 3. Liga | 79 | 43,0 % |
-| La Liga | 76 | 56,6 % |
+| La Liga | 77 | 57,1 % |
 | Eredivisie | 72 | 52,8 % |
 | 1. Division | 72 | 55,6 % |
+| Jupiler Pro League | 71 | 66,2 % |
 | Ligue 2 | 71 | 46,5 % |
-| Jupiler Pro League | 70 | 65,7 % |
 | Saudi Pro League | 70 | 52,9 % |
-| Liga Portugal | 68 | 51,5 % |
+| Liga Portugal | 69 | 52,2 % |
 | First NL | 64 | 39,1 % |
 | 2. Bundesliga | 63 | 47,6 % |
 | Süper Lig | 62 | 38,7 % |
@@ -99,7 +99,7 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | FA Cup | 2 | 100,0 % |
 | DFL-Supercup | 1 | 100,0 % |
 | Suomen Cup | 1 | 100,0 % |
-| **Gesamt** | **3.609** | **53,1 %** |
+| **Gesamt** | **3.613** | **53,2 %** |
 
 Kleine Stichproben schwanken stark — ein Wettbewerb mit wenigen Spielen sagt
 wenig über die Engine.
