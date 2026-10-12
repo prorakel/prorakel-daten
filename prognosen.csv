@@ -3440,7 +3440,6 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-10,ES1,Alaves,Ath Madrid,2,0:1,Remis o. Ath Madrid,0.7798,1:2,1,0,1,0.139
 2026-10-10,ES1,Barcelona,Getafe,1,2:0,Sieg Barcelona,0.8516,3:0,1,0,1,0.013
 2026-10-10,ES1,Real Madrid,Villarreal,1,2:0,Sieg Real Madrid,0.7066,1:0,1,0,1,0.05
-2026-10-10,ES1,Vallecano,Ath Bilbao,X,1:1,"Über 1,5 Tore",0.739,0:0,1,0,0,0.126
 2026-10-10,ES2,Celta B,Sociedad B,X,1:1,"Über 1,5 Tore",0.749,4:1,0,0,1,0.244
 2026-10-10,ES2,Ceuta,Sabadell,2,0:1,"Unter 3,5 Tore",0.7616,1:2,1,0,1,0.215
 2026-10-10,ES2,Eldense,Cordoba,1,2:1,"Unter 3,5 Tore",0.6583,2:1,1,1,1,0.209
@@ -3625,3 +3624,6 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-11,TR1,Konyaspor,Buyuksehyr,1,2:1,"Unter 3,5 Tore",0.6731,0:0,0,0,1,0.132
 2026-10-11,TR2,Bursaspor,Mardin 1969,1,1:0,Bursaspor o. Remis,0.7951,1:2,0,0,0,0.462
 2026-10-11,TR2,Karagumruk,Muğlaspor,1,1:0,Karagumruk o. Remis,0.7963,1:1,0,0,1,0.158
+2026-10-12,ES2,Valladolid,Albacete,1,1:0,Valladolid o. Remis,0.7777,5:0,1,0,1,0.147
+2026-10-12,GR2,Anagennisi Karditsas,Zakynthos,1,1:0,"Unter 3,5 Tore",0.7215,3:0,1,0,1,0.185
+2026-10-12,GR2,Panionios,PAOK II,1,1:0,"Unter 3,5 Tore",0.7435,3:0,1,0,1,0.078

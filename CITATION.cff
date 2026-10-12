@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Freie Nutzung unter CC BY 4.0 mit Quellenangabe „Prorakel, prorakel.de“."
+title: "Prorakel · Prognose-Archiv"
+type: dataset
+authors:
+  - name: Prorakel
+    website: "https://prorakel.de"
+abstract: >-
+  Jede Fußball-Prognose der Prorakel-Engine (Elo für die Stärke, Poisson für
+  die Tore), vor dem Anpfiff festgelegt und nach dem Abpfiff ausgewertet:
+  Tendenz, Ergebnis-Prognose, Stärkste Ansage mit angesagter
+  Wahrscheinlichkeit, Endstand nach 90 Minuten, Treffer und RPS.
+license: CC-BY-4.0
+url: "https://prorakel.de/bilanz?via=zitat"
+repository: "https://github.com/prorakel/prorakel-daten"
+version: "2026-10-12"
+date-released: "2026-10-12"
+keywords:
+  - fussball
+  - football
+  - prognose
+  - elo
+  - poisson
+  - open-data
