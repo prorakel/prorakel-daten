@@ -13,8 +13,8 @@ abstract: >-
 license: CC-BY-4.0
 url: "https://prorakel.de/bilanz?via=zitat"
 repository: "https://github.com/prorakel/prorakel-daten"
-version: "2026-10-12"
-date-released: "2026-10-12"
+version: "2026-10-13"
+date-released: "2026-10-13"
 keywords:
   - fussball
   - football
