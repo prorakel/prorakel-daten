@@ -5,10 +5,10 @@ Jede Prognose der [Prorakel-Engine](https://prorakel.de/so-funktionierts?via=git
 danebenlagen. Täglich aktualisiert. Dieselben Zeilen stehen in der
 [Bilanz auf prorakel.de](https://prorakel.de/bilanz?via=github).
 
-**Stand 14.10.2026:** 3.676 ausgewertete Spiele aus 64 Wettbewerben,
-2026-06-11 bis 2026-10-13. Die Tendenz (Heimsieg, Unentschieden, Auswärtssieg) traf in
-53,1 % der 3.676 Spiele (1.953), die Stärkste Ansage in
-75,5 % (2.777), das exakte Ergebnis in 10,8 % (396).
+**Stand 15.10.2026:** 3.708 ausgewertete Spiele aus 64 Wettbewerben,
+2026-06-11 bis 2026-10-14. Die Tendenz (Heimsieg, Unentschieden, Auswärtssieg) traf in
+53,2 % der 3.708 Spiele (1.972), die Stärkste Ansage in
+75,4 % (2.794), das exakte Ergebnis in 10,7 % (398).
 
 ## Datei
 
@@ -36,25 +36,25 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | Wettbewerb | Spiele | Tendenz getroffen |
 |---|---|---|
 | Conference League | 206 | 58,7 % |
-| Championship | 115 | 46,1 % |
+| Championship | 119 | 47,1 % |
 | Nations League | 104 | 62,5 % |
 | WM 2026 | 104 | 62,5 % |
 | League One | 102 | 44,1 % |
+| Champions League | 98 | 60,2 % |
 | La Liga 2 | 98 | 46,9 % |
+| 1. Lig | 97 | 45,4 % |
 | Superettan | 96 | 45,8 % |
-| 1. Lig | 93 | 45,2 % |
-| Champions League | 89 | 59,6 % |
+| 3. Liga | 90 | 42,2 % |
 | I Liga | 89 | 38,2 % |
 | DBU Pokalen | 88 | 50,0 % |
 | Ekstraklasa | 88 | 45,5 % |
 | Europa League | 86 | 53,5 % |
-| 3. Liga | 85 | 42,4 % |
 | Allsvenskan | 85 | 51,8 % |
+| 1. Division | 80 | 56,2 % |
 | La Liga | 78 | 56,4 % |
 | Jupiler Pro League | 72 | 65,3 % |
 | Ligue 2 | 72 | 45,8 % |
 | Eredivisie | 72 | 52,8 % |
-| 1. Division | 72 | 55,6 % |
 | Liga Portugal | 71 | 52,1 % |
 | Saudi Pro League | 71 | 53,5 % |
 | First NL | 64 | 39,1 % |
@@ -72,7 +72,7 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | Veikkausliiga | 52 | 46,2 % |
 | First Division | 50 | 46,0 % |
 | Bundesliga | 48 | 58,3 % |
-| Super League 2 | 47 | 59,6 % |
+| Super League 2 | 48 | 60,4 % |
 | Bundesliga | 45 | 55,6 % |
 | Ykkösliiga | 45 | 66,7 % |
 | League Two | 45 | 46,7 % |
@@ -93,13 +93,13 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | Griechischer Pokal | 28 | 71,4 % |
 | FAI Cup | 14 | 64,3 % |
 | Türkiye Kupası | 10 | 70,0 % |
-| Taça de Portugal | 7 | 85,7 % |
+| Taça de Portugal | 8 | 75,0 % |
 | Belgischer Pokal | 6 | 83,3 % |
 | Scottish Cup | 4 | 25,0 % |
 | FA Cup | 2 | 100,0 % |
 | DFL-Supercup | 1 | 100,0 % |
 | Suomen Cup | 1 | 100,0 % |
-| **Gesamt** | **3.676** | **53,1 %** |
+| **Gesamt** | **3.708** | **53,2 %** |
 
 Kleine Stichproben schwanken stark — ein Wettbewerb mit wenigen Spielen sagt
 wenig über die Engine.
@@ -108,12 +108,12 @@ wenig über die Engine.
 
 Die Nutzung ist frei, Bedingung ist die Quellenangabe. So passt sie:
 
-> Quelle: Prorakel, [prorakel.de](https://prorakel.de/bilanz?via=zitat) · Prognose-Archiv, Stand 14.10.2026
+> Quelle: Prorakel, [prorakel.de](https://prorakel.de/bilanz?via=zitat) · Prognose-Archiv, Stand 15.10.2026
 
 Ein Satz zum Übernehmen — Stichprobe und Stand stehen schon drin:
 
 > Laut dem Prognose-Archiv von Prorakel traf die vor dem Anpfiff festgelegte
-> Tendenz in 53,1 % von 3.676 Spielen aus 64 Wettbewerben (Stand 14.10.2026).
+> Tendenz in 53,2 % von 3.708 Spielen aus 64 Wettbewerben (Stand 15.10.2026).
 
 Für wissenschaftliche Arbeiten liefert GitHub über „Cite this repository“
 (rechte Spalte, aus `CITATION.cff`) die Angabe als APA und BibTeX.
@@ -122,8 +122,8 @@ Für wissenschaftliche Arbeiten liefert GitHub über „Cite this repository“
 
 Every pre-match forecast of the Prorakel engine (Elo ratings for team strength,
 Poisson for goals), fixed before kick-off and evaluated after the final
-whistle — including the misses. 3.676 matches from 64 competitions,
-2026-06-11 to 2026-10-13, updated daily. Column names are German: `datum` date ·
+whistle — including the misses. 3.708 matches from 64 competitions,
+2026-06-11 to 2026-10-14, updated daily. Column names are German: `datum` date ·
 `wettbewerb` competition · `heim`/`gast` home/away · `tendenz` 1/X/2 call ·
 `ergebnis_prognose` most likely score · `staerkste_ansage` the statement with
 the highest probability, `staerkste_ansage_wahrscheinlichkeit` its pre-match
