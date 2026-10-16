@@ -1425,7 +1425,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-08-25,DBU,Vatanspor,Aalborg,2,0:3,Sieg Aalborg,0.8833,1:1,0,0,0,0.391
 2026-08-25,ES1,Valencia,Betis,X,1:1,"Über 1,5 Tore",0.724,0:1,0,0,0,0.246
 2026-08-25,HRV,Kustosija,HNK Zadar,1,3:0,Sieg Kustosija,0.913,3:1,1,0,1,0.004
-2026-08-25,HRV,Radenska Slatina,Segesta Sisak,2,0:2,Sieg Segesta Sisak,0.8389,0:18,1,0,1,0.014
+2026-08-25,HRV,Slatina,Segesta Sisak,2,0:2,Sieg Segesta Sisak,0.8389,0:18,1,0,1,0.014
 2026-08-25,HRV,Vukovar,Radnički Dalj,1,4:0,Sieg Vukovar,0.955,4:1,1,0,1,0.001
 2026-08-25,SA1,Abha,Al Khaleej Saihat,2,0:1,"Unter 3,5 Tore",0.7047,1:1,0,0,1,0.133
 2026-08-25,SA1,Al Shabab,Al Riyadh,1,2:1,"Über 1,5 Tore",0.798,3:3,0,0,1,0.182
@@ -1446,13 +1446,13 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-08-26,DBU,Marienlyst,VSK Århus,2,1:2,Sieg VSK Århus,0.6025,1:1,0,0,0,0.196
 2026-08-26,ECL,SK Rapid,Hearts,1,1:0,SK Rapid o. Remis,0.7854,1:1,0,0,1,0.167
 2026-08-26,ES1,Real Madrid,Sociedad,1,2:0,"Über 1,5 Tore",0.8385,4:1,1,0,1,0.04
-2026-08-26,HRV,Cuba U20,Uljanik,2,0:2,Sieg Uljanik,0.6387,4:0,0,0,0,0.555
 2026-08-26,HRV,Dinamo Predavac,Hrvatski Dragovoljac,2,0:1,Remis o. Hrvatski Dragovoljac,0.834,0:0,0,0,1,0.209
 2026-08-26,HRV,Graničar Kotoriba,Zagorec,1,1:0,Graničar Kotoriba o. Remis,0.7158,1:1,0,0,1,0.14
 2026-08-26,HRV,Orijent 1919,Križevci,1,2:0,Sieg Orijent 1919,0.7901,3:1,1,0,1,0.025
 2026-08-26,HRV,Slavonija Požega,Moslavina,1,1:0,Slavonija Požega o. Remis,0.7158,3:0,1,0,1,0.194
 2026-08-26,HRV,Svacic Stari Slatnik,Koprivnica,1,1:0,Svacic Stari Slatnik o. Remis,0.7158,2:3,0,0,0,0.355
 2026-08-26,HRV,Tigar Sveta Nedelja,Karlovac 1919,2,0:2,Sieg Karlovac 1919,0.7524,1:4,1,0,1,0.035
+2026-08-26,HRV,Tomislav,Uljanik,2,0:2,Sieg Uljanik,0.6387,4:0,0,0,0,0.555
 2026-08-26,HRV,Uskok Klis,Podravina Ludbreg,1,1:0,Uskok Klis o. Remis,0.7158,3:0,1,0,1,0.194
 2026-08-26,HRV,Vardarac,Liznjan,1,1:0,Vardarac o. Remis,0.7158,3:1,1,0,1,0.194
 2026-08-26,HRV,Varteks Varaždin,Bedem Ivankovo,1,1:0,Varteks Varaždin o. Remis,0.7158,2:2,0,0,1,0.14
@@ -2328,12 +2328,12 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-09-09,GR2,PAOK II,Olympiakos Piraeus II,1,1:0,"Unter 3,5 Tore",0.7483,1:1,0,0,1,0.141
 2026-09-09,GRC,OFI Crete,Nestos Chrisoupolis,1,2:0,Nicht beide treffen,0.5978,3:0,1,0,1,0.032
 2026-09-09,HRV,Bedem Ivankovo,Dinamo Zagreb,2,0:3,Sieg Dinamo Zagreb,0.8864,0:4,1,0,1,0.003
-2026-09-09,HRV,Cuba U20,NK Lokomotiva Zagreb,2,0:3,Nicht beide treffen,0.5882,0:2,1,0,1,0.018
 2026-09-09,HRV,Hrvatski Dragovoljac,NK Slaven Belupo,2,0:2,Sieg NK Slaven Belupo,0.7139,0:5,1,0,1,0.069
 2026-09-09,HRV,Koprivnica,Rudes,2,0:2,Sieg Rudes,0.7443,2:3,1,0,1,0.036
 2026-09-09,HRV,Orijent 1919,Mladost Ždralovi,1,1:0,Orijent 1919 o. Remis,0.6888,2:2,0,0,1,0.133
 2026-09-09,HRV,Segesta Sisak,NK Osijek,2,0:1,Sieg NK Osijek,0.5867,3:1,0,0,0,0.518
 2026-09-09,HRV,Slavonija Požega,Oriolik Oriovac,1,1:0,Slavonija Požega o. Remis,0.7171,4:0,1,0,1,0.195
+2026-09-09,HRV,Tomislav,NK Lokomotiva Zagreb,2,0:3,Nicht beide treffen,0.5882,0:2,1,0,1,0.018
 2026-09-09,HRV,Uskok Klis,HNK Gorica,2,0:2,Sieg HNK Gorica,0.6963,1:1,0,0,0,0.248
 2026-09-09,HRV,Vukovar,HNK Cibalia,1,1:0,Vukovar o. Remis,0.7091,1:0,1,1,1,0.205
 2026-09-09,HRV,Zagora,NK Varazdin,2,0:3,Sieg NK Varazdin,0.8309,0:4,1,0,1,0.016
@@ -3707,3 +3707,47 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-14,TR2,Batman Petrolspor,Istanbulspor,1,1:0,"Unter 3,5 Tore",0.6594,4:2,1,0,0,0.115
 2026-10-14,TR2,Keçiörengücü,Iğdır FK,1,2:1,"Unter 3,5 Tore",0.6753,0:0,0,0,1,0.139
 2026-10-14,TR2,Umraniyespor,Boluspor,1,2:0,"Über 1,5 Tore",0.7563,0:1,0,0,0,0.571
+2026-10-15,ECL,Atalanta,Pafos,1,2:0,Atalanta o. Remis,0.8853,3:1,1,0,1,0.062
+2026-10-15,ECL,Brann,Lincoln Red Imps FC,1,2:0,"Über 1,5 Tore",0.8605,2:1,1,0,1,0.023
+2026-10-15,ECL,Brighton,Kauno Žalgiris,1,3:0,"Über 2,5 Tore",0.7946,4:0,1,0,1,0.004
+2026-10-15,ECL,CSKA Sofia,Monaco,2,0:2,Remis o. Monaco,0.8441,1:2,1,0,1,0.079
+2026-10-15,ECL,Egnatia Rrogozhinë,Midtjylland,2,0:2,Sieg Midtjylland,0.6248,1:1,0,0,0,0.207
+2026-10-15,ECL,FC Copenhagen,Sp Braga,X,1:1,FC Copenhagen o. Remis,0.6825,3:0,0,0,1,0.233
+2026-10-15,ECL,Freiburg,FK Jablonec,1,2:0,Freiburg o. FK Jablonec,0.8367,3:2,1,0,1,0.033
+2026-10-15,ECL,Gent,Aarhus,1,1:0,Gent o. Remis,0.7865,1:0,1,1,1,0.128
+2026-10-15,ECL,HNK Hajduk Split,Ajax,2,1:2,"Über 2,5 Tore",0.611,2:1,0,0,1,0.427
+2026-10-15,ECL,Hearts,Nordsjaelland,2,1:2,Remis o. Nordsjaelland,0.6829,1:1,0,0,1,0.14
+2026-10-15,ECL,KuPS,Trabzonspor,2,0:1,Remis o. Trabzonspor,0.7812,2:4,1,0,1,0.129
+2026-10-15,ECL,Lugano,FK Crvena Zvezda,1,2:1,Lugano o. Remis,0.7017,3:2,1,0,1,0.198
+2026-10-15,ECL,Mjallby,Inter Club d'Escaldes,1,1:0,Mjallby o. Inter Club d'Escaldes,0.7932,2:0,1,0,1,0.077
+2026-10-15,ECL,Panathinaikos,Borac Banja Luka,1,2:0,Panathinaikos o. Borac Banja Luka,0.8387,2:1,1,0,1,0.033
+2026-10-15,ECL,Riga,Kairat Almaty,1,1:0,Riga o. Remis,0.7755,1:1,0,0,1,0.152
+2026-10-15,ECL,St Truiden,FC Iberia 1999,1,2:0,St Truiden o. FC Iberia 1999,0.8239,2:0,1,1,1,0.038
+2026-10-15,ECL,Twente,Thun,1,2:0,"Unter 4,5 Tore",0.6128,1:0,1,0,1,0.031
+2026-10-15,ECL,Universitatea Craiova,Getafe,X,1:1,Universitatea Craiova o. Remis,0.6788,1:1,1,1,1,0.122
+2026-10-15,EL,AZ Alkmaar,Hapoel Beer Sheva,1,2:0,AZ Alkmaar o. Hapoel Beer Sheva,0.8068,2:1,1,0,1,0.062
+2026-10-15,EL,Benfica,Celtic,1,2:0,"Über 1,5 Tore",0.8655,4:1,1,0,1,0.028
+2026-10-15,EL,Bournemouth,Sturm Graz,1,2:0,"Über 1,5 Tore",0.8587,3:0,1,0,1,0.034
+2026-10-15,EL,Celje,Omonia Nicosia,X,1:1,Celje o. Remis,0.6482,0:3,0,0,0,0.277
+2026-10-15,EL,Celta,Juventus,2,0:1,Remis o. Juventus,0.7406,1:2,1,0,1,0.185
+2026-10-15,EL,Dinamo Zagreb,Anderlecht,1,2:1,Dinamo Zagreb o. Remis,0.7734,1:0,1,0,1,0.141
+2026-10-15,EL,Ferencvarosi TC,Plzen,1,2:1,Ferencvarosi TC o. Remis,0.7587,2:1,1,1,1,0.152
+2026-10-15,EL,Hoffenheim,Besiktas,1,2:1,Hoffenheim o. Remis,0.6854,2:3,0,0,0,0.33
+2026-10-15,EL,Jagiellonia,Ararat-Armenia,1,2:0,Jagiellonia o. Remis,0.8606,3:1,1,0,1,0.073
+2026-10-15,EL,Lech Poznan,Leverkusen,2,1:2,Beide Teams treffen,0.6205,0:4,1,0,0,0.099
+2026-10-15,EL,Lyon,Crystal Palace,1,2:1,Lyon o. Remis,0.6708,3:2,1,0,1,0.232
+2026-10-15,EL,Marseille,Olympiakos,2,0:1,Remis o. Olympiakos,0.6734,0:1,1,1,1,0.235
+2026-10-15,EL,Nijmegen,Levski Sofia,1,1:0,Nijmegen o. Remis,0.7429,1:1,0,0,1,0.142
+2026-10-15,EL,Rennes,OFI Crete,1,2:0,"Über 1,5 Tore",0.84,2:1,1,0,1,0.037
+2026-10-15,EL,Salzburg,Milan,2,1:2,Remis o. Milan,0.717,0:4,1,0,1,0.186
+2026-10-15,EL,Sparta Praha,Lillestrom,1,2:1,Sparta Praha o. Remis,0.8426,1:1,0,0,1,0.223
+2026-10-15,EL,St. Gilloise,Sociedad,1,2:1,St. Gilloise o. Remis,0.7055,1:1,0,0,1,0.149
+2026-10-15,EL,Torreense,Sunderland,2,0:2,Remis o. Sunderland,0.8637,1:2,1,0,1,0.053
+2026-10-15,EN3,Mansfield,Oxford,2,1:2,"Unter 3,5 Tore",0.672,1:1,0,0,1,0.138
+2026-10-15,PL2,Pogoń Siedlce,Puszcza,X,1:1,"Über 1,5 Tore",0.7378,1:3,0,0,1,0.276
+2026-10-15,SA1,Al Khaleej Saihat,Al-Fayha,1,1:0,"Unter 3,5 Tore",0.7131,2:0,1,0,1,0.196
+2026-10-15,SA1,Al-Faisaly FC,Al Kholood,2,0:1,Remis o. Al Kholood,0.703,3:2,0,0,0,0.336
+2026-10-15,SA1,Al-Hazm,Al-Fateh,1,2:1,"Unter 3,5 Tore",0.6581,2:3,0,0,0,0.324
+2026-10-15,TR2,Manisa F.K.,Esenler Erokspor,2,1:2,Remis o. Esenler Erokspor,0.7278,1:1,0,0,1,0.145
+2026-10-15,TR2,Mardin 1969,Karagumruk,1,1:0,"Unter 3,5 Tore",0.7267,1:0,1,1,1,0.178
+2026-10-15,TR2,Muğlaspor,Bursaspor,2,0:1,"Unter 3,5 Tore",0.7131,0:3,1,0,1,0.111
