@@ -3751,3 +3751,57 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-15,TR2,Manisa F.K.,Esenler Erokspor,2,1:2,Remis o. Esenler Erokspor,0.7278,1:1,0,0,1,0.145
 2026-10-15,TR2,Mardin 1969,Karagumruk,1,1:0,"Unter 3,5 Tore",0.7267,1:0,1,1,1,0.178
 2026-10-15,TR2,Muğlaspor,Bursaspor,2,0:1,"Unter 3,5 Tore",0.7131,0:3,1,0,1,0.111
+2026-10-16,AT1,SK Rapid,Hartberg,1,2:0,"Über 1,5 Tore",0.8615,3:1,1,0,1,0.036
+2026-10-16,AT2,Austria Vienna (Am),WSPG Wels,1,2:1,"Unter 3,5 Tore",0.6692,2:2,0,0,0,0.14
+2026-10-16,AT2,SKN ST. Polten,Rapid Wien II,1,2:1,"Über 1,5 Tore",0.8355,0:0,0,0,0,0.207
+2026-10-16,AT2,Voitsberg,First Vienna,2,1:2,"Unter 3,5 Tore",0.6717,1:2,1,1,1,0.25
+2026-10-16,AT2,Wacker Innsbruck,Austria Salzburg,1,2:1,"Unter 3,5 Tore",0.703,0:1,0,0,1,0.328
+2026-10-16,BEK,Beveren,Habay-la-Neuve,1,3:0,Sieg Beveren,0.8278,3:0,1,1,1,0.016
+2026-10-16,BEK,Sporting Hasselt,Cercle Brugge,2,0:2,Sieg Cercle Brugge,0.62,1:2,1,0,1,0.088
+2026-10-16,BEK,Standard,Dender,1,2:0,Sieg Standard,0.6613,2:0,1,1,1,0.069
+2026-10-16,BEK,Westerlo,Patro Eisden,1,2:0,Sieg Westerlo,0.7128,2:0,1,1,1,0.049
+2026-10-16,BL1,Ein Frankfurt,FC Koln,1,2:1,Ein Frankfurt o. Remis,0.756,1:0,1,0,1,0.14
+2026-10-16,BL2,Cottbus,Nurnberg,2,1:2,Remis o. Nurnberg,0.7503,1:1,0,0,1,0.166
+2026-10-16,BL2,Holstein Kiel,Hertha,2,1:2,"Über 1,5 Tore",0.8441,0:0,0,0,0,0.147
+2026-10-16,BL3,Fortuna Köln,Stuttgart II,1,2:1,"Über 1,5 Tore",0.8134,0:1,0,0,0,0.352
+2026-10-16,DK1,Horsens,Randers FC,2,1:2,"Unter 3,5 Tore",0.6666,0:0,0,0,1,0.139
+2026-10-16,DK2,Aarhus Fremad,Esbjerg,1,2:1,"Über 1,5 Tore",0.8093,0:0,0,0,0,0.139
+2026-10-16,DK2,HB Koge,AB Copenhagen,1,2:1,"Über 1,5 Tore",0.8101,2:3,0,0,1,0.293
+2026-10-16,DK2,Kolding IF,Vendsyssel FF,1,2:1,Kolding IF o. Remis,0.7543,2:1,1,1,1,0.155
+2026-10-16,EN2,Burnley,Wolves,2,0:1,"Unter 3,5 Tore",0.6893,1:2,1,0,1,0.21
+2026-10-16,ES1,La Coruna,Levante,1,1:0,"Unter 3,5 Tore",0.7096,1:1,0,0,1,0.144
+2026-10-16,ES2,Leganes,Cordoba,1,1:0,"Unter 3,5 Tore",0.6644,0:1,0,0,1,0.309
+2026-10-16,FR1,Le Mans,Toulouse,2,1:2,Remis o. Toulouse,0.7117,0:3,1,0,1,0.199
+2026-10-16,FR2,Annecy,Nancy,X,1:1,"Über 1,5 Tore",0.7068,1:2,0,0,1,0.238
+2026-10-16,FR2,Grenoble,Boulogne,X,1:1,"Über 1,5 Tore",0.6393,0:2,0,0,1,0.283
+2026-10-16,FR2,Guingamp,Pau FC,1,1:0,"Unter 3,5 Tore",0.6963,1:2,0,0,1,0.353
+2026-10-16,FR2,Laval,Clermont,1,1:0,"Unter 3,5 Tore",0.7344,3:3,0,0,0,0.137
+2026-10-16,FR2,Reims,Dijon,1,2:1,Reims o. Remis,0.7777,4:2,1,0,1,0.13
+2026-10-16,HR1,Rudes,HNK Rijeka,2,0:2,"Über 1,5 Tore",0.7931,1:2,1,0,1,0.059
+2026-10-16,HR2,Dinamo Zagreb U21,Karlovac 1919,1,1:0,"Unter 3,5 Tore",0.7393,0:1,0,0,1,0.434
+2026-10-16,HR2,Opatija,Sesvete,1,1:0,"Unter 3,5 Tore",0.7814,1:0,1,1,1,0.213
+2026-10-16,IE1,Bohemians,Waterford,1,2:1,"Über 1,5 Tore",0.8316,2:1,1,1,1,0.099
+2026-10-16,IE1,Drogheda,Derry City,2,0:1,"Unter 3,5 Tore",0.746,2:0,0,0,1,0.357
+2026-10-16,IE1,Galway,Shamrock Rovers,2,0:1,Remis o. Shamrock Rovers,0.794,2:0,0,0,0,0.473
+2026-10-16,IE1,St. Patricks,Shelbourne,1,1:0,"Unter 3,5 Tore",0.6725,1:2,0,0,1,0.524
+2026-10-16,IE2,Finn Harps,Bray,2,1:2,"Über 1,5 Tore",0.8293,2:0,0,0,1,0.543
+2026-10-16,IE2,Kerry,Cork City,2,1:2,"Unter 3,5 Tore",0.6457,1:1,0,0,1,0.138
+2026-10-16,IE2,Longford,Athlone Town,1,2:1,"Unter 3,5 Tore",0.6566,1:0,1,0,1,0.265
+2026-10-16,IE2,Treaty United,Cobh Ramblers,2,0:1,Remis o. Cobh Ramblers,0.7444,2:0,0,0,0,0.4
+2026-10-16,IE2,Wexford,UC Dublin,1,2:1,"Unter 3,5 Tore",0.6143,2:5,0,0,0,0.273
+2026-10-16,IT1,Frosinone,Sassuolo,1,2:1,"Über 1,5 Tore",0.8427,4:2,1,0,1,0.256
+2026-10-16,IT2,Verona,Catanzaro,1,1:0,Verona o. Remis,0.7948,2:2,0,0,1,0.178
+2026-10-16,NL1,Heerenveen,Excelsior,1,2:1,"Über 2,5 Tore",0.6702,4:0,1,0,1,0.095
+2026-10-16,PL1,Widzew Lodz,Wisla,1,2:1,"Unter 3,5 Tore",0.6846,0:0,0,0,1,0.136
+2026-10-16,PL1,Wieczysta Krakow,Rakow,1,2:1,"Über 1,5 Tore",0.8208,1:2,0,0,1,0.392
+2026-10-16,PL2,Ruch Chorzow,Odra Opole,1,1:0,Ruch Chorzow o. Remis,0.7823,3:0,1,0,1,0.137
+2026-10-16,PL2,Warta Poznan,Unia Skierniewice,1,2:1,Warta Poznan o. Remis,0.6999,1:0,1,0,1,0.204
+2026-10-16,SA1,Al-Qadisiyah FC,Abha,1,2:0,Sieg Al-Qadisiyah FC,0.8477,2:1,1,0,1,0.013
+2026-10-16,SC2,Ayr,Partick,2,0:1,Remis o. Partick,0.7823,0:1,1,1,1,0.12
+2026-10-16,SE1,Brommapojkarna,Djurgarden,2,1:2,"Über 1,5 Tore",0.8318,0:2,1,0,1,0.078
+2026-10-16,SUI,Lausanne Ouchy,Étoile Carouge,1,2:1,Sieg Lausanne Ouchy,0.5886,3:0,1,0,1,0.103
+2026-10-16,SUI,Rapperswil,St. Gallen,2,1:2,Beide Teams treffen,0.5763,0:2,1,0,0,0.076
+2026-10-16,SUI,Rotkreuz,Servette,2,0:3,Sieg Servette,0.8579,0:4,1,0,1,0.011
+2026-10-16,SUI,Stade Nyonnais,Basel,2,0:2,Sieg Basel,0.7852,0:3,1,0,1,0.027
+2026-10-16,TACA,Chaves,Os Marialvas,1,2:0,Nicht beide treffen,0.6136,2:1,1,0,0,0.051
+2026-10-16,TR1,Çorum FK,Rizespor,1,2:1,Çorum FK o. Remis,0.7226,2:1,1,1,1,0.178
