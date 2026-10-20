@@ -393,7 +393,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-08-03,DK1,Odense,Sonderjyske,1,2:1,"Über 1,5 Tore",0.7986,1:0,1,0,0,0.207
 2026-08-03,FI1,SJK,HJK,2,1:2,"Über 1,5 Tore",0.8102,3:0,0,0,1,0.37
 2026-08-03,IE2,Cork City,Athlone Town,1,2:0,"Über 1,5 Tore",0.7877,3:2,1,0,1,0.059
-2026-08-03,IE2,Kerry,Cobh Ramblers,1,1:0,"Unter 3,5 Tore",0.7166,3:0,1,0,1,0.245
+2026-08-03,IE2,Kerry FC,Cobh Ramblers,1,1:0,"Unter 3,5 Tore",0.7166,3:0,1,0,1,0.245
 2026-08-03,IE2,Longford,Finn Harps,1,1:0,"Unter 3,5 Tore",0.7114,5:0,1,0,0,0.108
 2026-08-03,IE2,UC Dublin,Treaty United,1,1:0,"Unter 3,5 Tore",0.6588,1:2,0,0,1,0.481
 2026-08-03,IE2,Wexford,Bray,2,1:2,"Unter 3,5 Tore",0.6606,2:1,0,0,1,0.309
@@ -531,7 +531,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-08-07,IE2,Athlone Town,Longford,2,0:1,"Unter 3,5 Tore",0.7168,2:1,0,0,1,0.272
 2026-08-07,IE2,Bray,Finn Harps,1,2:0,"Über 1,5 Tore",0.8409,5:0,1,0,1,0.052
 2026-08-07,IE2,Cobh Ramblers,Treaty United,1,1:0,"Unter 3,5 Tore",0.7472,2:0,1,0,1,0.214
-2026-08-07,IE2,Cork City,Kerry,1,2:0,"Über 1,5 Tore",0.7944,3:1,1,0,1,0.066
+2026-08-07,IE2,Cork City,Kerry FC,1,2:0,"Über 1,5 Tore",0.7944,3:1,1,0,1,0.066
 2026-08-07,IE2,UC Dublin,Wexford,1,2:1,UC Dublin o. Remis,0.741,4:1,1,0,1,0.165
 2026-08-07,NL1,Cambuur,Excelsior,1,2:1,"Unter 3,5 Tore",0.6669,0:4,0,0,0,0.301
 2026-08-07,NO1,Sandefjord,KFUM Oslo,1,2:1,Sandefjord o. Remis,0.7242,0:1,0,0,0,0.376
@@ -1155,7 +1155,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-08-21,IE1,Dundalk,Galway,1,2:1,Dundalk o. Remis,0.7611,1:2,0,0,0,0.423
 2026-08-21,IE1,Sligo Rovers,Waterford,2,1:2,"Unter 3,5 Tore",0.6694,0:0,0,0,1,0.136
 2026-08-21,IE2,Finn Harps,Cobh Ramblers,2,1:2,Remis o. Cobh Ramblers,0.7123,1:3,1,0,1,0.194
-2026-08-21,IE2,Kerry,UC Dublin,2,1:2,"Unter 3,5 Tore",0.6486,1:1,0,0,1,0.136
+2026-08-21,IE2,Kerry FC,UC Dublin,2,1:2,"Unter 3,5 Tore",0.6486,1:1,0,0,1,0.136
 2026-08-21,IE2,Treaty United,Cork City,2,0:1,"Unter 3,5 Tore",0.6645,2:2,0,0,0,0.199
 2026-08-21,IE2,Wexford,Athlone Town,1,1:0,"Unter 3,5 Tore",0.6972,0:2,0,0,1,0.379
 2026-08-21,IT2,Vicenza,Catanzaro,X,1:1,"Über 1,5 Tore",0.6924,3:2,0,0,1,0.273
@@ -1555,7 +1555,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-08-28,IE2,Athlone Town,Bray,2,1:2,"Unter 3,5 Tore",0.6613,2:1,0,0,1,0.355
 2026-08-28,IE2,Cobh Ramblers,Longford,1,1:0,"Unter 3,5 Tore",0.7369,2:2,0,0,0,0.139
 2026-08-28,IE2,Cork City,Wexford,1,2:0,"Über 1,5 Tore",0.8178,2:0,1,1,1,0.062
-2026-08-28,IE2,Kerry,Treaty United,1,1:0,"Unter 3,5 Tore",0.7177,3:1,1,0,0,0.196
+2026-08-28,IE2,Kerry FC,Treaty United,1,1:0,"Unter 3,5 Tore",0.7177,3:1,1,0,0,0.196
 2026-08-28,IE2,UC Dublin,Finn Harps,1,2:0,"Über 1,5 Tore",0.8418,5:4,1,0,1,0.042
 2026-08-28,IT1,Milan,Venezia,1,2:0,"Über 1,5 Tore",0.7499,2:0,1,1,1,0.063
 2026-08-28,IT2,Cremonese,Modena,1,1:0,"Unter 3,5 Tore",0.7987,0:3,0,0,1,0.386
@@ -2090,7 +2090,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-09-05,HR2,Dugopolje,Mladost Ždralovi,1,1:0,"Unter 3,5 Tore",0.7557,0:0,0,0,1,0.131
 2026-09-05,HR2,Sesvete,Segesta Sisak,1,1:0,"Unter 3,5 Tore",0.7548,2:0,1,0,1,0.198
 2026-09-05,HR2,Vukovar,HNK Cibalia,1,1:0,"Unter 3,5 Tore",0.7438,1:1,0,0,1,0.135
-2026-09-05,IE2,Longford,Kerry,1,1:0,"Unter 3,5 Tore",0.6821,0:1,0,0,1,0.324
+2026-09-05,IE2,Longford,Kerry FC,1,1:0,"Unter 3,5 Tore",0.6821,0:1,0,0,1,0.324
 2026-09-05,IT1,Fiorentina,Torino,1,1:0,"Unter 3,5 Tore",0.7245,1:2,0,0,1,0.417
 2026-09-05,IT1,Inter,Napoli,1,1:0,"Unter 3,5 Tore",0.7213,3:2,1,0,0,0.102
 2026-09-05,IT1,Roma,Atalanta,1,1:0,"Unter 3,5 Tore",0.6675,2:1,1,0,1,0.13
@@ -2400,7 +2400,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-09-11,IE1,St. Patricks,Shamrock Rovers,X,1:1,"Über 1,5 Tore",0.712,2:0,0,0,1,0.247
 2026-09-11,IE1,Waterford,Dundalk,1,2:1,Waterford o. Remis,0.6853,1:1,0,0,1,0.143
 2026-09-11,IE2,Cork City,Cobh Ramblers,1,2:0,"Über 1,5 Tore",0.7968,2:3,0,0,1,0.562
-2026-09-11,IE2,Kerry,Bray,2,1:2,"Unter 3,5 Tore",0.6548,0:1,1,0,1,0.238
+2026-09-11,IE2,Kerry FC,Bray,2,1:2,"Unter 3,5 Tore",0.6548,0:1,1,0,1,0.238
 2026-09-11,IE2,UC Dublin,Athlone Town,1,1:0,UC Dublin o. Remis,0.7744,2:2,0,0,1,0.168
 2026-09-11,IE2,Wexford,Finn Harps,1,2:0,"Über 1,5 Tore",0.7875,1:3,0,0,1,0.568
 2026-09-11,IT1,Venezia,Fiorentina,X,1:1,"Über 1,5 Tore",0.782,2:4,0,0,1,0.283
@@ -2807,7 +2807,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-09-18,IE1,Derry City,Galway,1,1:0,Derry City o. Remis,0.7966,1:0,1,1,1,0.103
 2026-09-18,IE1,Dundalk,Shelbourne,1,2:1,"Unter 3,5 Tore",0.6459,2:3,0,0,0,0.307
 2026-09-18,IE1,Shamrock Rovers,Waterford,1,2:0,"Über 1,5 Tore",0.7957,3:2,1,0,1,0.086
-2026-09-18,IE2,Athlone Town,Kerry,1,1:0,"Unter 3,5 Tore",0.7266,3:0,1,0,1,0.216
+2026-09-18,IE2,Athlone Town,Kerry FC,1,1:0,"Unter 3,5 Tore",0.7266,3:0,1,0,1,0.216
 2026-09-18,IE2,Bray,Treaty United,1,2:0,"Über 1,5 Tore",0.7981,2:0,1,1,1,0.095
 2026-09-18,IE2,Cork City,UC Dublin,1,2:1,"Über 1,5 Tore",0.8127,5:1,1,0,1,0.105
 2026-09-18,IE2,Finn Harps,Longford,2,0:1,"Unter 3,5 Tore",0.6962,0:1,1,1,1,0.202
@@ -3111,7 +3111,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-09-25,HR2,Dinamo Zagreb U21,Mladost Ždralovi,1,1:0,"Unter 3,5 Tore",0.7389,1:0,1,1,1,0.228
 2026-09-25,IE1,Galway,Shelbourne,X,1:1,"Über 1,5 Tore",0.7637,1:1,1,1,1,0.122
 2026-09-25,IE2,Cobh Ramblers,Athlone Town,1,1:0,"Unter 3,5 Tore",0.6959,3:3,0,0,0,0.136
-2026-09-25,IE2,Kerry,Wexford,1,1:0,"Unter 3,5 Tore",0.6946,1:0,1,1,1,0.219
+2026-09-25,IE2,Kerry FC,Wexford,1,1:0,"Unter 3,5 Tore",0.6946,1:0,1,1,1,0.219
 2026-09-25,IE2,Treaty United,Finn Harps,1,1:0,Treaty United o. Remis,0.7859,2:1,1,0,1,0.122
 2026-09-25,IE2,UC Dublin,Bray,1,2:1,"Über 1,5 Tore",0.8243,1:3,0,0,1,0.272
 2026-09-25,NL,Armenien,Lettland,1,1:0,Armenien o. Remis,0.7635,2:0,1,0,1,0.162
@@ -3213,7 +3213,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-02,IE1,Dundalk,Bohemians,2,1:2,"Über 1,5 Tore",0.8216,1:2,1,1,1,0.121
 2026-10-02,IE2,Athlone Town,Cork City,2,1:2,Remis o. Cork City,0.698,2:1,0,0,0,0.341
 2026-10-02,IE2,Bray,Cobh Ramblers,1,2:1,"Unter 3,5 Tore",0.6115,1:4,0,0,0,0.441
-2026-10-02,IE2,Finn Harps,Kerry,2,0:1,"Unter 3,5 Tore",0.7125,1:2,1,0,1,0.177
+2026-10-02,IE2,Finn Harps,Kerry FC,2,0:1,"Unter 3,5 Tore",0.7125,1:2,1,0,1,0.177
 2026-10-02,IE2,Treaty United,UC Dublin,2,1:2,"Unter 3,5 Tore",0.642,0:4,1,0,0,0.242
 2026-10-02,IE2,Wexford,Longford,1,1:0,Wexford o. Remis,0.7319,3:3,0,0,1,0.148
 2026-10-02,NL,Belgien,Türkei,1,2:0,Sieg Belgien,0.6065,3:0,1,0,1,0.092
@@ -3356,7 +3356,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-09,IE1,Shelbourne,Sligo Rovers,1,2:0,"Über 1,5 Tore",0.8335,5:1,1,0,1,0.037
 2026-10-09,IE2,Athlone Town,Treaty United,1,1:0,"Unter 3,5 Tore",0.65,1:2,0,0,1,0.517
 2026-10-09,IE2,Bray,Wexford,1,2:1,"Über 1,5 Tore",0.8277,2:2,0,0,1,0.179
-2026-10-09,IE2,Cobh Ramblers,Kerry,1,1:0,"Unter 3,5 Tore",0.7529,0:2,0,0,1,0.328
+2026-10-09,IE2,Cobh Ramblers,Kerry FC,1,1:0,"Unter 3,5 Tore",0.7529,0:2,0,0,1,0.328
 2026-10-09,IE2,Cork City,Finn Harps,1,2:0,Sieg Cork City,0.779,2:0,1,1,1,0.028
 2026-10-09,IE2,UC Dublin,Longford,1,2:1,"Über 1,5 Tore",0.8217,1:1,0,0,1,0.16
 2026-10-09,IT2,Avellino,Sampdoria,X,1:1,"Über 1,5 Tore",0.7264,4:1,0,0,1,0.25
@@ -3785,7 +3785,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-16,IE1,Galway,Shamrock Rovers,2,0:1,Remis o. Shamrock Rovers,0.794,2:0,0,0,0,0.473
 2026-10-16,IE1,St. Patricks,Shelbourne,1,1:0,"Unter 3,5 Tore",0.6725,1:2,0,0,1,0.524
 2026-10-16,IE2,Finn Harps,Bray,2,1:2,"Über 1,5 Tore",0.8293,2:0,0,0,1,0.543
-2026-10-16,IE2,Kerry,Cork City,2,1:2,"Unter 3,5 Tore",0.6457,1:1,0,0,1,0.138
+2026-10-16,IE2,Kerry FC,Cork City,2,1:2,"Unter 3,5 Tore",0.6457,1:1,0,0,1,0.138
 2026-10-16,IE2,Longford,Athlone Town,1,2:1,"Unter 3,5 Tore",0.6566,1:0,1,0,1,0.265
 2026-10-16,IE2,Treaty United,Cobh Ramblers,2,0:1,Remis o. Cobh Ramblers,0.7444,2:0,0,0,0,0.4
 2026-10-16,IE2,Wexford,UC Dublin,1,2:1,"Unter 3,5 Tore",0.6143,2:5,0,0,0,0.273
@@ -4082,3 +4082,27 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-18,TR2,Iğdır FK,Boluspor,1,2:0,"Über 1,5 Tore",0.8267,1:0,1,0,0,0.028
 2026-10-18,TR2,Kayserispor,Batman Petrolspor,1,1:0,"Unter 3,5 Tore",0.6716,2:2,0,0,0,0.181
 2026-10-18,TR2,Vanspor FK,Umraniyespor,1,1:0,"Unter 3,5 Tore",0.7272,0:2,0,0,1,0.331
+2026-10-19,DK1,Viborg,Midtjylland,2,1:2,"Über 1,5 Tore",0.8131,1:2,1,1,1,0.218
+2026-10-19,EN1,Tottenham,Coventry,1,1:0,"Unter 3,5 Tore",0.6357,3:1,1,0,0,0.091
+2026-10-19,ES1,Getafe,Vallecano,X,1:1,"Unter 3,5 Tore",0.8298,1:1,1,1,1,0.117
+2026-10-19,ES2,Celta B,Tenerife,X,1:1,"Über 1,5 Tore",0.7106,1:1,1,1,1,0.123
+2026-10-19,FR2,Rodez,Montpellier,2,1:2,Remis o. Montpellier,0.7092,0:3,1,0,1,0.191
+2026-10-19,GR2,Niki Volos,Panionios,1,1:0,"Unter 2,5 Tore",0.6682,1:1,0,0,1,0.119
+2026-10-19,GR2,PAOK II,Apollon Pontou,1,1:0,"Unter 3,5 Tore",0.7793,2:1,1,0,1,0.16
+2026-10-19,IE1,Derry City,St. Patricks,2,0:1,"Unter 3,5 Tore",0.7352,1:0,0,0,1,0.384
+2026-10-19,IE1,Waterford,Galway,1,2:1,"Über 1,5 Tore",0.8067,3:2,1,0,1,0.112
+2026-10-19,IT1,Monza,Cagliari,X,1:1,"Über 1,5 Tore",0.7174,4:0,0,0,1,0.248
+2026-10-19,IT1,Parma,Torino,2,0:1,"Unter 3,5 Tore",0.787,0:3,1,0,1,0.217
+2026-10-19,PL1,Wisla Plock,Radomiak Radom,1,2:1,Wisla Plock o. Remis,0.7787,1:0,1,0,1,0.136
+2026-10-19,PL2,Termalica B-B.,Puszcza,1,2:1,Termalica B-B. o. Remis,0.7607,2:0,1,0,1,0.154
+2026-10-19,PT1,Sp Braga,Gil Vicente,1,1:0,"Unter 3,5 Tore",0.7341,1:2,0,0,1,0.512
+2026-10-19,SA1,Al Shabab,Al-Faisaly FC,1,2:1,"Über 1,5 Tore",0.8075,2:2,0,0,1,0.189
+2026-10-19,SA1,Al-Fayha,Al-Ahli Jeddah,2,0:2,"Über 1,5 Tore",0.8138,2:3,1,0,1,0.047
+2026-10-19,SA1,Al-Hilal Saudi FC,Al-Hazm,1,3:0,Sieg Al-Hilal Saudi FC,0.8528,1:0,1,0,1,0.009
+2026-10-19,SE1,Degerfors,Kalmar,2,0:1,"Unter 3,5 Tore",0.7361,1:2,1,0,1,0.225
+2026-10-19,SE2,Varberg,Helsingborg,1,2:1,Varberg o. Remis,0.7796,0:0,0,0,1,0.173
+2026-10-19,TR1,Trabzonspor,Besiktas,1,2:1,"Über 1,5 Tore",0.8223,2:0,1,0,1,0.251
+2026-10-19,TR2,Bursaspor,Pendikspor,1,2:0,"Über 1,5 Tore",0.7958,2:0,1,1,1,0.072
+2026-10-19,TR2,Esenler Erokspor,Mardin 1969,1,1:0,"Unter 3,5 Tore",0.7267,4:2,1,0,0,0.179
+2026-10-19,TR2,Karagumruk,Keçiörengücü,1,2:1,"Unter 3,5 Tore",0.678,1:2,0,0,1,0.295
+2026-10-19,TR2,Manisa F.K.,Muğlaspor,1,1:0,"Unter 3,5 Tore",0.7117,3:4,0,0,0,0.326
