@@ -4188,3 +4188,54 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-22,FI2,Rops,KäPa,2,0:1,Remis o. KäPa,0.6933,1:1,0,0,1,0.143
 2026-10-22,SA1,Al-Fateh,Al Shabab,2,1:2,"Über 1,5 Tore",0.8078,1:3,1,0,1,0.192
 2026-10-22,SA1,Al-Hazm,Al-Fayha,1,1:0,"Unter 3,5 Tore",0.7134,2:2,0,0,0,0.135
+2026-10-23,AT1,Altach,Austria Vienna,1,2:1,"Unter 3,5 Tore",0.6773,2:1,1,1,1,0.223
+2026-10-23,AT2,Austria Salzburg,FC BW Linz,2,1:2,Remis o. FC BW Linz,0.752,0:1,1,0,1,0.153
+2026-10-23,AT2,Austria Vienna (Am),Sturm Graz II,1,2:1,"Über 1,5 Tore",0.7994,1:0,1,0,0,0.252
+2026-10-23,AT2,First Vienna,Floridsdorfer AC,1,1:0,"Unter 3,5 Tore",0.7005,2:0,1,0,1,0.109
+2026-10-23,AT2,SKU Amstetten,Rapid Wien II,1,2:1,"Über 2,5 Tore",0.6784,3:2,1,0,1,0.089
+2026-10-23,AT2,SV Kapfenberg,SKN ST. Polten,2,1:2,"Über 1,5 Tore",0.818,1:1,0,0,1,0.195
+2026-10-23,AT2,WSPG Wels,Voitsberg,2,1:2,"Unter 3,5 Tore",0.6362,2:6,1,0,0,0.266
+2026-10-23,BL1,Stuttgart,M'gladbach,1,2:1,"Über 2,5 Tore",0.7261,2:3,0,0,1,0.636
+2026-10-23,BL2,Bochum,Wolfsburg,2,1:2,"Über 1,5 Tore",0.8425,1:1,0,0,1,0.149
+2026-10-23,BL2,Darmstadt,St Pauli,2,1:2,"Unter 3,5 Tore",0.6689,0:0,0,0,1,0.133
+2026-10-23,BL3,Rot-Weiß Essen,Regensburg,1,2:1,"Über 1,5 Tore",0.8396,1:0,1,0,0,0.135
+2026-10-23,CH2,FC WIL 1900,Rapperswil,1,2:1,"Über 1,5 Tore",0.8437,2:2,0,0,1,0.149
+2026-10-23,CH2,FC Winterthur,Stade Nyonnais,1,2:0,"Über 1,5 Tore",0.8578,4:0,1,0,1,0.04
+2026-10-23,CH2,Stade Lausanne-Ouchy,Neuchatel Xamax FC,1,2:1,"Über 1,5 Tore",0.8198,0:0,0,0,0,0.193
+2026-10-23,DK1,Randers FC,Brondby,2,1:2,"Über 1,5 Tore",0.8093,1:3,1,0,1,0.158
+2026-10-23,DK2,Hobro,Vendsyssel FF,X,1:1,"Über 1,5 Tore",0.7535,2:2,1,0,1,0.129
+2026-10-23,DK2,Hvidovre IF,HB Koge,1,2:1,"Über 1,5 Tore",0.8143,2:2,0,0,1,0.174
+2026-10-23,EN1,Ipswich,Nott'm Forest,2,0:1,"Unter 3,5 Tore",0.6735,1:1,0,0,1,0.131
+2026-10-23,EN2,Bolton,Middlesbrough,2,1:2,"Über 1,5 Tore",0.8232,1:5,1,0,1,0.101
+2026-10-23,ES1,Alaves,Malaga,1,1:0,"Unter 3,5 Tore",0.7493,1:1,0,0,1,0.19
+2026-10-23,ES2,Granada,Valladolid,1,1:0,"Unter 3,5 Tore",0.7272,2:1,1,0,1,0.185
+2026-10-23,FR1,Brest,Nice,1,2:1,"Unter 3,5 Tore",0.6678,1:2,0,0,1,0.326
+2026-10-23,FR2,Clermont,Guingamp,2,0:1,"Unter 3,5 Tore",0.7248,0:2,1,0,1,0.221
+2026-10-23,FR2,Dunkerque,Metz,2,1:2,"Unter 3,5 Tore",0.656,1:1,0,0,1,0.137
+2026-10-23,FR2,Nancy,Laval,1,1:0,"Unter 3,5 Tore",0.692,1:0,1,1,1,0.1
+2026-10-23,FR2,Pau FC,Grenoble,1,1:0,Pau FC o. Remis,0.7877,2:1,1,0,1,0.137
+2026-10-23,FR2,Sochaux,Annecy,1,1:0,"Unter 3,5 Tore",0.7553,1:3,0,0,0,0.317
+2026-10-23,HR2,Dinamo Zagreb U21,HNK Cibalia,1,1:0,"Unter 3,5 Tore",0.7303,0:1,0,0,1,0.352
+2026-10-23,HR2,Dubrava Zagreb,Kustosija,2,0:1,"Unter 3,5 Tore",0.7583,1:2,1,0,1,0.231
+2026-10-23,HR2,Sesvete,Hrvace,1,1:0,"Unter 3,5 Tore",0.757,0:0,0,0,1,0.151
+2026-10-23,IE1,Bohemians,Shelbourne,1,1:0,"Unter 3,5 Tore",0.667,0:1,0,0,1,0.488
+2026-10-23,IE1,Derry City,Dundalk,1,2:1,Derry City o. Remis,0.8005,2:1,1,1,1,0.113
+2026-10-23,IE1,Galway,St. Patricks,2,0:1,Remis o. St. Patricks,0.7942,0:0,0,0,1,0.172
+2026-10-23,IE1,Shamrock Rovers,Sligo Rovers,1,2:0,"Über 1,5 Tore",0.8449,4:0,1,0,1,0.019
+2026-10-23,IE1,Waterford,Drogheda,1,1:0,Waterford o. Remis,0.7916,3:1,1,0,1,0.115
+2026-10-23,IT1,Torino,Monza,1,1:0,"Unter 3,5 Tore",0.7072,3:2,1,0,0,0.184
+2026-10-23,IT2,Empoli,Vicenza,X,1:1,"Über 1,5 Tore",0.748,0:2,0,0,1,0.305
+2026-10-23,NL1,Go Ahead Eagles,Telstar,1,2:1,"Über 2,5 Tore",0.6825,3:2,1,0,1,0.095
+2026-10-23,PL1,Motor Lublin,Zaglebie,1,2:1,Motor Lublin o. Remis,0.7526,2:2,0,0,1,0.155
+2026-10-23,PL1,Widzew Lodz,Gornik Zabrze,2,0:1,"Unter 3,5 Tore",0.7196,1:1,0,0,1,0.134
+2026-10-23,PL2,Polonia Warszawa,Legnica,1,2:1,"Über 1,5 Tore",0.8081,1:1,0,0,1,0.154
+2026-10-23,PT1,Guimaraes,Maritimo,1,1:0,"Unter 3,5 Tore",0.7144,5:0,1,0,0,0.082
+2026-10-23,SA1,Al-Ahli Jeddah,Al Khaleej Saihat,1,2:0,"Über 1,5 Tore",0.8298,4:1,1,0,1,0.048
+2026-10-23,SA1,Al-Faisaly FC,Al-Nassr,2,0:2,Sieg Al-Nassr,0.7802,1:3,1,0,1,0.028
+2026-10-23,SA1,Al-Ittihad FC,Al Diriyah,1,2:1,"Über 1,5 Tore",0.8255,2:0,1,0,1,0.126
+2026-10-23,SA1,Al-Qadisiyah FC,Al-Hilal Saudi FC,2,1:2,"Über 1,5 Tore",0.8375,2:3,1,0,1,0.183
+2026-10-23,SE1,Elfsborg,Malmo FF,1,2:1,Elfsborg o. Remis,0.7432,0:0,0,0,1,0.151
+2026-10-23,SE1,Vasteras SK,Halmstad,1,2:1,"Unter 3,5 Tore",0.6486,1:2,0,0,1,0.491
+2026-10-23,SE2,Oddevold,Sundsvall,1,2:0,"Über 1,5 Tore",0.8091,7:0,1,0,1,0.049
+2026-10-23,TR1,Alanyaspor,Kocaelispor,1,1:0,"Unter 3,5 Tore",0.7675,1:2,0,0,1,0.424
+2026-10-23,TR2,Boluspor,Vanspor FK,2,0:1,Remis o. Vanspor FK,0.7691,0:3,1,0,1,0.147
