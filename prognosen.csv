@@ -4239,3 +4239,159 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-23,SE2,Oddevold,Sundsvall,1,2:0,"Über 1,5 Tore",0.8091,7:0,1,0,1,0.049
 2026-10-23,TR1,Alanyaspor,Kocaelispor,1,1:0,"Unter 3,5 Tore",0.7675,1:2,0,0,1,0.424
 2026-10-23,TR2,Boluspor,Vanspor FK,2,0:1,Remis o. Vanspor FK,0.7691,0:3,1,0,1,0.147
+2026-10-24,AT1,Hartberg,Wolfsberger AC,1,2:1,Hartberg o. Remis,0.7227,1:0,1,0,1,0.183
+2026-10-24,AT1,SK Rapid,A. Lustenau,1,2:0,Sieg SK Rapid,0.7784,5:1,1,0,1,0.028
+2026-10-24,AT1,Tirol,Grazer AK,1,2:1,"Unter 3,5 Tore",0.7067,1:1,0,0,1,0.136
+2026-10-24,AT2,Admira Wacker,Wacker Innsbruck,1,2:1,"Unter 3,5 Tore",0.6555,1:0,1,0,1,0.206
+2026-10-24,AT2,FC Liefering,Schwarz-Weiß Bregenz,1,2:1,"Über 1,5 Tore",0.8182,2:2,0,0,1,0.143
+2026-10-24,BE1,Antwerp,Charleroi,2,1:2,Remis o. Charleroi,0.7663,3:0,0,0,0,0.431
+2026-10-24,BE1,Oud-Heverlee Leuven,Lommel SK,1,2:1,Oud-Heverlee Leuven o. Remis,0.743,2:2,0,0,1,0.157
+2026-10-24,BE1,RAAL La Louviere,Waregem,2,0:1,"Unter 3,5 Tore",0.7248,3:0,0,0,1,0.327
+2026-10-24,BE1,Westerlo,Beveren,1,2:1,"Über 1,5 Tore",0.8254,4:4,0,0,1,0.176
+2026-10-24,BL1,Augsburg,Union Berlin,1,2:1,"Über 1,5 Tore",0.8301,1:1,0,0,1,0.176
+2026-10-24,BL1,Dortmund,Ein Frankfurt,1,2:1,"Über 2,5 Tore",0.6842,1:0,1,0,0,0.073
+2026-10-24,BL1,FC Koln,Schalke 04,1,2:1,"Über 1,5 Tore",0.7901,0:0,0,0,0,0.15
+2026-10-24,BL1,Mainz,Werder Bremen,1,2:1,"Über 2,5 Tore",0.624,2:3,0,0,1,0.469
+2026-10-24,BL1,Paderborn,Hamburg,1,2:1,"Über 1,5 Tore",0.8095,1:0,1,0,0,0.249
+2026-10-24,BL1,RB Leipzig,Elversberg,1,2:1,"Über 2,5 Tore",0.737,4:0,1,0,1,0.069
+2026-10-24,BL2,Heidenheim,Cottbus,1,2:1,"Unter 4,5 Tore",0.6561,1:1,0,0,1,0.191
+2026-10-24,BL2,Hertha,Bielefeld,1,2:1,"Über 1,5 Tore",0.82,1:0,1,0,0,0.135
+2026-10-24,BL2,Magdeburg,Karlsruhe,1,2:1,"Über 1,5 Tore",0.8384,6:1,1,0,1,0.127
+2026-10-24,BL2,Nurnberg,Kaiserslautern,1,2:1,"Über 1,5 Tore",0.8218,0:1,0,0,0,0.364
+2026-10-24,BL3,Hansa Rostock,Fortuna Dusseldorf,1,2:1,"Über 1,5 Tore",0.7984,1:1,0,0,1,0.145
+2026-10-24,BL3,Ingolstadt,MSV Duisburg,2,1:2,"Über 1,5 Tore",0.8096,2:1,0,0,1,0.351
+2026-10-24,BL3,SV Meppen,Wurzburger Kickers,1,2:1,"Über 1,5 Tore",0.8085,4:0,1,0,1,0.159
+2026-10-24,BL3,Stuttgart II,Alemannia Aachen,2,1:2,"Über 1,5 Tore",0.8403,1:2,1,1,1,0.198
+2026-10-24,BL3,Viktoria Köln,Verl,1,2:1,"Über 2,5 Tore",0.6836,3:1,1,0,1,0.11
+2026-10-24,BL3,Wehen,SG Sonnenhof Grossaspach,1,2:1,"Über 1,5 Tore",0.8131,7:1,1,0,1,0.152
+2026-10-24,CH1,Servette,Vaduz,1,2:1,"Über 1,5 Tore",0.8405,2:1,1,1,1,0.157
+2026-10-24,CH1,Young Boys,St. Gallen,1,2:1,"Über 2,5 Tore",0.7218,2:0,1,0,0,0.112
+2026-10-24,CH1,Zurich,Luzern,2,1:2,"Über 2,5 Tore",0.6842,2:1,0,0,1,0.282
+2026-10-24,CH2,FC Aarau,Étoile Carouge,1,2:1,"Über 1,5 Tore",0.8329,1:2,0,0,1,0.455
+2026-10-24,DK2,AB Copenhagen,Kolding IF,1,2:1,"Über 1,5 Tore",0.7973,1:0,1,0,0,0.202
+2026-10-24,DK2,Esbjerg,Fredericia,2,1:2,"Über 2,5 Tore",0.6663,2:1,0,0,1,0.506
+2026-10-24,DK2,Hillerød,Aalborg,2,1:2,"Unter 3,5 Tore",0.6545,2:1,0,0,1,0.332
+2026-10-24,DK2,Vejle,Aarhus Fremad,1,2:0,"Über 1,5 Tore",0.799,0:0,0,0,0,0.207
+2026-10-24,EN1,Arsenal,Everton,1,2:0,"Über 1,5 Tore",0.7577,2:0,1,1,1,0.057
+2026-10-24,EN1,Aston Villa,Man City,2,1:2,"Über 1,5 Tore",0.831,2:1,0,0,1,0.501
+2026-10-24,EN1,Chelsea,Tottenham,1,2:1,"Über 1,5 Tore",0.8182,0:2,0,0,1,0.432
+2026-10-24,EN1,Coventry,Fulham,2,0:1,"Unter 3,5 Tore",0.6722,0:1,1,1,1,0.215
+2026-10-24,EN2,Blackburn,Wrexham,X,1:1,"Über 1,5 Tore",0.7063,2:0,0,0,1,0.286
+2026-10-24,EN2,Cardiff,Birmingham,2,1:2,"Über 1,5 Tore",0.8059,1:0,0,0,0,0.284
+2026-10-24,EN2,Charlton,Norwich,2,0:1,"Unter 3,5 Tore",0.7049,1:3,1,0,0,0.188
+2026-10-24,EN2,Lincoln,Burnley,2,0:1,"Unter 3,5 Tore",0.7094,4:1,0,0,0,0.292
+2026-10-24,EN2,Portsmouth,Millwall,X,1:1,"Über 1,5 Tore",0.7315,2:1,0,0,1,0.239
+2026-10-24,EN2,Preston,West Brom,2,0:1,Remis o. West Brom,0.7648,1:1,0,0,1,0.152
+2026-10-24,EN2,QPR,Swansea,1,1:0,"Unter 3,5 Tore",0.721,5:0,1,0,0,0.26
+2026-10-24,EN2,Sheffield United,Derby,1,1:0,Sheffield United o. Remis,0.7956,1:1,0,0,1,0.172
+2026-10-24,EN2,Stoke,Bristol City,1,1:0,"Unter 3,5 Tore",0.7454,0:0,0,0,1,0.132
+2026-10-24,EN2,West Ham,Southampton,1,2:1,"Über 1,5 Tore",0.8264,2:3,0,0,1,0.474
+2026-10-24,EN2,Wolves,Watford,1,2:0,"Über 1,5 Tore",0.7913,1:0,1,0,0,0.061
+2026-10-24,EN3,AFC Wimbledon,Wycombe,2,0:1,Remis o. Wycombe,0.7672,1:1,0,0,1,0.162
+2026-10-24,EN3,Blackpool,Mansfield,X,1:1,"Über 1,5 Tore",0.7803,1:4,0,0,1,0.249
+2026-10-24,EN3,Bromley,Peterboro,2,1:2,"Über 1,5 Tore",0.8208,1:1,0,0,1,0.159
+2026-10-24,EN3,Burton,Leyton Orient,X,1:1,"Über 1,5 Tore",0.7498,2:1,0,0,1,0.274
+2026-10-24,EN3,Cambridge,Plymouth,1,2:1,"Unter 3,5 Tore",0.6723,2:3,0,0,0,0.291
+2026-10-24,EN3,Doncaster,Sheffield Weds,2,1:2,"Unter 3,5 Tore",0.6569,2:0,0,0,1,0.303
+2026-10-24,EN3,Huddersfield,Wigan,1,2:0,"Über 1,5 Tore",0.8103,2:1,1,0,1,0.044
+2026-10-24,EN3,Luton,Leicester,1,2:1,"Über 1,5 Tore",0.8204,2:1,1,1,1,0.233
+2026-10-24,EN3,Notts County,Stockport,2,0:1,"Unter 3,5 Tore",0.692,1:1,0,0,1,0.194
+2026-10-24,EN3,Oxford,Bradford,X,1:1,"Über 1,5 Tore",0.735,0:0,1,0,0,0.122
+2026-10-24,EN3,Reading,Barnsley,1,2:1,"Über 1,5 Tore",0.8368,2:1,1,1,1,0.092
+2026-10-24,EN3,Stevenage,Milton Keynes Dons,1,1:0,"Unter 3,5 Tore",0.7469,0:1,0,0,1,0.413
+2026-10-24,ES1,Ath Madrid,La Coruna,1,2:0,"Über 1,5 Tore",0.8112,1:0,1,0,0,0.036
+2026-10-24,ES1,Santander,Espanol,1,2:1,"Unter 3,5 Tore",0.6526,2:1,1,1,1,0.22
+2026-10-24,ES1,Valencia,Villarreal,2,0:1,Remis o. Villarreal,0.7262,1:2,1,0,1,0.186
+2026-10-24,ES1,Vallecano,Elche,1,1:0,Vallecano o. Remis,0.7936,0:3,0,0,0,0.466
+2026-10-24,ES2,Almeria,Oviedo,1,1:0,"Unter 3,5 Tore",0.7,2:2,0,0,0,0.186
+2026-10-24,ES2,Cordoba,Eibar,1,2:1,Cordoba o. Remis,0.7058,2:0,1,0,1,0.192
+2026-10-24,ES2,Girona,Celta B,1,2:0,"Über 1,5 Tore",0.8232,5:1,1,0,1,0.052
+2026-10-24,ES2,Las Palmas,Sociedad B,1,1:0,Las Palmas o. Remis,0.7468,1:0,1,1,1,0.161
+2026-10-24,ES2,Leganes,Mallorca,2,0:1,"Unter 3,5 Tore",0.7666,1:1,0,0,1,0.142
+2026-10-24,FI1,Gnistan,AC Oulu,1,2:1,"Unter 3,5 Tore",0.6789,3:4,0,0,0,0.366
+2026-10-24,FI1,VPS,Inter Turku,2,0:1,Remis o. Inter Turku,0.7938,0:1,1,1,1,0.126
+2026-10-24,FR1,Lens,Paris FC,1,2:1,"Unter 3,5 Tore",0.6403,2:1,1,1,1,0.216
+2026-10-24,FR2,Dijon,Rodez,1,2:1,Dijon o. Remis,0.7402,1:2,0,0,0,0.398
+2026-10-24,FR2,St Etienne,Nantes,1,1:0,St Etienne o. Remis,0.7991,1:0,1,1,1,0.11
+2026-10-24,GR1,AEK,Panetolikos,1,2:0,"Über 1,5 Tore",0.8483,5:0,1,0,1,0.014
+2026-10-24,GR1,Asteras Tripolis,Levadeiakos,1,1:0,"Unter 3,5 Tore",0.7794,0:0,0,0,1,0.138
+2026-10-24,GR1,Iraklis 1908,Kifisia,1,1:0,"Unter 3,5 Tore",0.7605,2:3,0,0,0,0.384
+2026-10-24,GR2,Apollon Pontou,Niki Volos,2,0:1,"Unter 3,5 Tore",0.7068,0:2,1,0,1,0.075
+2026-10-24,GR2,Athens Kallithea,Larisa,1,1:0,"Unter 3,5 Tore",0.8158,1:1,0,0,1,0.129
+2026-10-24,GR2,Olympiakos Piraeus II,Nestos Chrisoupolis,1,1:0,"Unter 3,5 Tore",0.7731,1:2,0,0,1,0.349
+2026-10-24,GR2,Panserraikos,Ellas Syros,1,1:0,"Unter 3,5 Tore",0.7696,3:2,1,0,0,0.114
+2026-10-24,HR1,HNK Gorica,NK Lokomotiva Zagreb,1,1:0,"Unter 3,5 Tore",0.7288,0:0,0,0,1,0.131
+2026-10-24,HR1,NK Varazdin,NK Slaven Belupo,1,1:0,"Unter 3,5 Tore",0.6533,1:2,0,0,1,0.5
+2026-10-24,HR2,Dugopolje,Opatija,1,1:0,"Unter 3,5 Tore",0.7518,1:2,0,0,1,0.365
+2026-10-24,HR2,Karlovac 1919,Orijent 1919,1,1:0,"Unter 3,5 Tore",0.7563,0:2,0,0,1,0.364
+2026-10-24,HR2,Segesta Sisak,Croatia Zmijavci,1,1:0,"Unter 3,5 Tore",0.7476,2:0,1,0,1,0.186
+2026-10-24,HR2,Vukovar,Bsk Bijelo Brdo,1,1:0,"Unter 3,5 Tore",0.756,0:2,0,0,1,0.332
+2026-10-24,IE2,Kerry FC,Bray,2,0:1,"Unter 3,5 Tore",0.6799,1:2,1,0,1,0.259
+2026-10-24,IE2,Longford,UC Dublin,2,1:2,"Unter 3,5 Tore",0.6735,0:2,1,0,1,0.23
+2026-10-24,IT1,Cagliari,Bologna,X,1:1,"Über 1,5 Tore",0.6949,0:2,0,0,1,0.262
+2026-10-24,IT1,Como,Sassuolo,1,2:1,"Über 1,5 Tore",0.8433,2:0,1,0,1,0.069
+2026-10-24,IT1,Lazio,Parma,1,2:0,"Über 1,5 Tore",0.7504,2:1,1,0,1,0.059
+2026-10-24,IT1,Napoli,Roma,X,1:1,"Über 1,5 Tore",0.7468,3:3,1,0,1,0.125
+2026-10-24,IT2,Arezzo,Benevento,2,0:1,"Unter 3,5 Tore",0.7434,0:3,1,0,1,0.23
+2026-10-24,IT2,Avellino,Padova,1,1:0,"Unter 3,5 Tore",0.7513,0:1,0,0,1,0.397
+2026-10-24,IT2,Catanzaro,Ascoli,X,1:1,"Über 1,5 Tore",0.76,1:6,0,0,1,0.293
+2026-10-24,IT2,Cremonese,Juve Stabia,1,1:0,"Unter 3,5 Tore",0.7303,0:1,0,0,1,0.427
+2026-10-24,IT2,Modena,Cesena,1,2:0,"Über 1,5 Tore",0.7831,3:0,1,0,1,0.085
+2026-10-24,IT2,Sudtirol,Sampdoria,X,1:1,"Über 1,5 Tore",0.6934,1:1,1,1,1,0.12
+2026-10-24,IT2,Virtus Entella,Mantova,X,1:1,"Über 1,5 Tore",0.7103,0:1,0,0,0,0.299
+2026-10-24,NL1,Den Haag,Heerenveen,2,1:2,"Über 1,5 Tore",0.8416,2:3,1,0,1,0.165
+2026-10-24,NL1,Utrecht,Zwolle,1,2:1,"Über 1,5 Tore",0.827,1:1,0,0,1,0.19
+2026-10-24,NL1,Willem II,Cambuur,1,2:1,"Über 1,5 Tore",0.8233,1:6,0,0,1,0.291
+2026-10-24,NO1,Bodo/Glimt,Valerenga,1,3:0,"Über 2,5 Tore",0.8016,0:1,0,0,0,0.778
+2026-10-24,NO1,HamKam,Rosenborg,2,1:2,"Über 1,5 Tore",0.8422,0:3,1,0,1,0.078
+2026-10-24,NO2,Raufoss,Ranheim,2,1:2,"Über 2,5 Tore",0.7282,1:3,1,0,1,0.119
+2026-10-24,PL1,Korona Kielce,GKS Katowice,1,2:1,Korona Kielce o. Remis,0.6945,1:0,1,0,1,0.2
+2026-10-24,PL1,Piast Gliwice,Cracovia,1,2:1,"Unter 3,5 Tore",0.6584,3:1,1,0,0,0.229
+2026-10-24,PL1,Pogon Szczecin,Radomiak Radom,1,2:1,"Über 1,5 Tore",0.7958,4:3,1,0,1,0.097
+2026-10-24,PL1,Wisla,Rakow,1,2:1,Wisla o. Remis,0.7797,2:1,1,1,1,0.128
+2026-10-24,PL2,Arka Gdynia,Termalica B-B.,1,2:1,"Unter 3,5 Tore",0.6432,3:1,1,0,0,0.217
+2026-10-24,PL2,Puszcza,Lechia Gdansk,2,1:2,"Unter 3,5 Tore",0.639,2:1,0,0,1,0.295
+2026-10-24,PL2,Stal Mielec,Chrobry Głogów,1,2:1,"Unter 3,5 Tore",0.708,0:0,0,0,1,0.134
+2026-10-24,PL2,Unia Skierniewice,Polonia Bytom,1,2:1,"Unter 3,5 Tore",0.6281,1:2,0,0,1,0.273
+2026-10-24,PT1,Alverca,Arouca,1,1:0,"Unter 3,5 Tore",0.719,0:1,0,0,1,0.382
+2026-10-24,PT1,Estrela,Casa Pia,1,1:0,Estrela o. Remis,0.8045,0:2,0,0,0,0.47
+2026-10-24,PT1,Gil Vicente,Porto,2,0:1,"Unter 3,5 Tore",0.7106,0:1,1,1,1,0.061
+2026-10-24,SA1,Al Kholood,Al-Ettifaq,1,2:1,"Unter 3,5 Tore",0.6564,0:3,0,0,1,0.274
+2026-10-24,SA1,Al Riyadh,Al Taawon,2,0:1,"Unter 3,5 Tore",0.6985,2:1,0,0,1,0.323
+2026-10-24,SA1,NEOM,Abha,1,2:0,"Über 1,5 Tore",0.7743,2:0,1,1,1,0.078
+2026-10-24,SC1,Dundee United,Aberdeen,1,2:1,Dundee United o. Remis,0.7373,3:2,1,0,1,0.169
+2026-10-24,SC1,Falkirk,Kilmarnock,1,2:1,Falkirk o. Remis,0.7653,3:0,1,0,1,0.145
+2026-10-24,SC1,Rangers,St Johnstone,1,2:0,"Über 1,5 Tore",0.8252,4:0,1,0,1,0.026
+2026-10-24,SC1,St Mirren,Dundee,1,2:1,"Unter 3,5 Tore",0.6501,2:1,1,1,1,0.225
+2026-10-24,SC2,Livingston,Arbroath,1,2:0,"Über 1,5 Tore",0.7833,1:0,1,0,0,0.067
+2026-10-24,SC2,Partick,Stenhousemuir,1,2:0,"Über 1,5 Tore",0.7551,3:0,1,0,1,0.081
+2026-10-24,SC2,Queens Park,Dunfermline,2,0:1,"Unter 3,5 Tore",0.7098,0:1,1,1,1,0.107
+2026-10-24,SC2,Raith Rvs,Inverness C,X,1:1,"Über 1,5 Tore",0.6971,0:2,0,0,1,0.296
+2026-10-24,SC3,Alloa,Queen of Sth,1,2:1,Alloa o. Remis,0.7692,0:1,0,0,0,0.434
+2026-10-24,SC3,Hamilton,East Fife,1,2:0,"Über 1,5 Tore",0.7748,2:1,1,0,1,0.054
+2026-10-24,SC3,Montrose,Peterhead,1,2:1,Montrose o. Remis,0.7283,3:0,1,0,1,0.178
+2026-10-24,SC3,Ross County,Airdrie Utd,1,2:0,"Über 1,5 Tore",0.8447,4:0,1,0,1,0.042
+2026-10-24,SCC,Bo'ness United,Forfar,2,0:2,Sieg Forfar,0.6347,2:1,0,0,0,0.565
+2026-10-24,SCC,Brechin,Strathspey Thistle,1,2:0,Sieg Brechin,0.6082,2:2,0,0,0,0.198
+2026-10-24,SCC,Brora Rangers,Cowdenbeath,1,2:1,Beide Teams treffen,0.6083,1:1,0,0,1,0.224
+2026-10-24,SCC,Dumbarton,Keith,1,2:0,Sieg Dumbarton,0.7418,1:0,1,0,1,0.037
+2026-10-24,SCC,Edinburgh City,Kelty Hearts,1,2:1,Edinburgh City o. Remis,0.6411,4:1,1,0,1,0.253
+2026-10-24,SCC,Huntly,Annan Athletic,2,1:2,Sieg Annan Athletic,0.5883,2:2,0,0,0,0.193
+2026-10-24,SCC,Lochee United,Spartans,2,0:2,Sieg Spartans,0.6563,1:2,1,0,1,0.071
+2026-10-24,SCC,Renfrew,Stirling,2,0:2,Sieg Stirling,0.6258,2:1,0,0,0,0.555
+2026-10-24,SCC,Stirling University,Elgin,2,0:2,Sieg Elgin,0.7765,1:2,1,0,1,0.028
+2026-10-24,SCC,Stranraer,Tayport,1,3:0,Sieg Stranraer,0.8763,3:1,1,0,1,0.008
+2026-10-24,SE1,Djurgarden,Orgryte,1,2:0,Sieg Djurgarden,0.8084,2:2,0,0,0,0.328
+2026-10-24,SE1,Hacken,Degerfors,1,2:0,"Über 1,5 Tore",0.8186,4:0,1,0,1,0.049
+2026-10-24,SE1,Kalmar,Brommapojkarna,1,2:1,Kalmar o. Remis,0.7813,0:3,0,0,0,0.474
+2026-10-24,SE1,Sirius,AIK,1,2:1,"Über 1,5 Tore",0.8375,1:2,0,0,1,0.536
+2026-10-24,SE2,IK brage,Oster,1,2:1,"Über 1,5 Tore",0.8227,4:5,0,0,1,0.389
+2026-10-24,SE2,Ostersunds,United Nordic,1,2:0,"Über 1,5 Tore",0.7725,4:1,1,0,1,0.077
+2026-10-24,SE2,Varnamo,Sandviken,1,2:1,"Über 1,5 Tore",0.7957,0:1,0,0,0,0.378
+2026-10-24,TR1,Eyupspor,Kasimpasa,2,0:1,"Unter 3,5 Tore",0.7349,0:1,1,1,1,0.111
+2026-10-24,TR1,Gaziantep,Erzurum BB,X,1:1,"Über 1,5 Tore",0.7208,1:3,0,0,1,0.312
+2026-10-24,TR1,Samsunspor,Amed,2,1:2,"Unter 3,5 Tore",0.6966,1:2,1,1,1,0.22
+2026-10-24,TR2,Bandırmaspor,Iğdır FK,1,1:0,"Unter 3,5 Tore",0.7157,1:2,0,0,1,0.322
+2026-10-24,TR2,Muğlaspor,Istanbulspor,1,1:0,"Unter 3,5 Tore",0.724,5:0,1,0,0,0.161
+2026-10-24,TR2,Sarıyer,Karagumruk,X,1:1,"Über 1,5 Tore",0.7123,0:2,0,0,1,0.303
+2026-10-24,TR2,Umraniyespor,Sivasspor,1,1:0,"Unter 3,5 Tore",0.7253,4:0,1,0,0,0.235
