@@ -4509,3 +4509,74 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-10-26,TR1,Galatasaray,Fenerbahce,1,2:1,"Über 1,5 Tore",0.8228,2:1,1,1,1,0.172
 2026-10-26,TR1,Rizespor,Trabzonspor,2,1:2,"Über 1,5 Tore",0.809,3:4,1,0,1,0.133
 2026-10-26,TR2,Mardin 1969,Manisa F.K.,1,2:0,"Über 1,5 Tore",0.7692,2:1,1,0,1,0.109
+2026-10-27,COPA,Alcazar,Malaga,2,0:3,Nicht beide treffen,0.5844,0:3,1,1,1,0.005
+2026-10-27,COPA,Atlético Paso,Cordoba,2,0:2,Sieg Cordoba,0.6645,3:1,0,0,0,0.591
+2026-10-27,COPA,Atlético Tordesillas,Mirandes,2,0:1,Sieg Mirandes,0.5929,3:3,0,0,0,0.19
+2026-10-27,COPA,Castellonense,Almeria,2,0:2,Sieg Almeria,0.6761,0:0,0,0,0,0.236
+2026-10-27,COPA,Cuarte,Girona,2,0:2,Nicht beide treffen,0.5895,0:2,1,1,1,0.021
+2026-10-27,COPA,Gimnástica Segoviana,Cultural Leonesa,2,0:1,Remis o. Cultural Leonesa,0.739,0:1,1,1,1,0.173
+2026-10-27,COPA,Llanera,Ponferradina,2,0:1,Sieg Ponferradina,0.5879,1:1,0,0,0,0.188
+2026-10-27,COPA,Manacor,Villarreal,2,0:3,Sieg Villarreal,0.9114,0:5,1,0,1,0.005
+2026-10-27,COPA,Pinatar,Elche,2,0:3,Sieg Elche,0.8752,1:3,1,0,1,0.005
+2026-10-27,COPA,RSD Alcalá,Las Palmas,2,0:2,Sieg Las Palmas,0.6485,1:1,0,0,0,0.222
+2026-10-27,COPA,Recreativo Huelva,Vallecano,2,0:2,Sieg Vallecano,0.686,1:1,0,0,0,0.241
+2026-10-27,COPA,Sestao River,Espanol,2,0:2,Sieg Espanol,0.6677,2:2,0,0,0,0.23
+2026-10-27,COPA,Tudelano,Zaragoza,2,0:1,Sieg Zaragoza,0.6587,0:4,1,0,1,0.067
+2026-10-27,DBU,AB Copenhagen,Brondby,2,1:2,Sieg Brondby,0.6306,1:2,1,1,1,0.085
+2026-10-27,DFB,Bochum,Mainz,2,1:2,Sieg Mainz,0.6077,2:0,0,0,0,0.525
+2026-10-27,DFB,Dortmund,Werder Bremen,1,2:0,Sieg Dortmund,0.6949,3:2,1,0,1,0.055
+2026-10-27,DFB,Elversberg,Darmstadt,1,2:1,Beide Teams treffen,0.5643,0:2,0,0,0,0.583
+2026-10-27,DFB,FC Koln,Union Berlin,1,2:1,FC Koln o. Remis,0.7732,5:0,1,0,1,0.136
+2026-10-27,DFB,Hamburg,Ein Frankfurt,2,1:2,Remis o. Ein Frankfurt,0.7076,1:3,1,0,1,0.19
+2026-10-27,DFB,M'gladbach,Karlsruhe,1,2:1,Beide Teams treffen,0.5921,2:0,1,0,0,0.075
+2026-10-27,DFB,Rot-Weiß Essen,RB Leipzig,2,0:2,Sieg RB Leipzig,0.7943,1:2,1,0,1,0.027
+2026-10-27,DFB,SG Sonnenhof Grossaspach,Augsburg,2,0:2,Sieg Augsburg,0.7521,2:4,1,0,1,0.036
+2026-10-27,EN3,Leicester,Wigan,1,2:0,"Über 1,5 Tore",0.8281,3:0,1,0,1,0.061
+2026-10-27,EN3,Luton,Doncaster,1,2:1,"Über 1,5 Tore",0.8278,3:1,1,0,1,0.074
+2026-10-27,EN3,Milton Keynes Dons,Bromley,1,1:0,"Unter 3,5 Tore",0.6429,4:1,1,0,0,0.088
+2026-10-27,EN3,Oxford,Stockport,2,1:2,Remis o. Stockport,0.7387,1:0,0,0,0,0.391
+2026-10-27,EN3,Sheffield Weds,Cambridge,1,2:1,Sheffield Weds o. Remis,0.7407,1:1,0,0,1,0.153
+2026-10-27,GRC,Asteras Tripolis,Kifisia,1,1:0,Asteras Tripolis o. Remis,0.747,0:2,0,0,0,0.392
+2026-10-27,GRC,Panserraikos,Niki Volos,1,1:0,Panserraikos o. Remis,0.6998,0:1,0,0,0,0.328
+2026-10-27,HR1,Dinamo Zagreb,HNK Rijeka,1,1:0,"Unter 3,5 Tore",0.6583,2:1,1,0,1,0.098
+2026-10-27,IE2,Bray,Kerry FC,1,2:1,Bray o. Remis,0.7543,3:0,1,0,1,0.151
+2026-10-27,IE2,UC Dublin,Longford,1,2:1,UC Dublin o. Remis,0.7857,2:0,1,0,1,0.129
+2026-10-27,IT1,Roma,Cagliari,1,2:0,"Über 1,5 Tore",0.7848,4:2,1,0,1,0.038
+2026-10-27,IT1,Sassuolo,Lazio,2,1:2,Remis o. Lazio,0.7324,2:6,1,0,1,0.181
+2026-10-27,IT1,Torino,Como,2,1:2,Remis o. Como,0.8104,1:3,1,0,1,0.113
+2026-10-27,IT2,Ascoli,Sampdoria,1,1:0,"Unter 3,5 Tore",0.7191,2:0,1,0,1,0.181
+2026-10-27,IT2,Benevento,Catanzaro,1,1:0,Benevento o. Remis,0.791,1:1,0,0,1,0.195
+2026-10-27,IT2,Cesena,Empoli,1,1:0,"Unter 3,5 Tore",0.7357,2:1,1,0,1,0.185
+2026-10-27,IT2,Mantova,Cremonese,1,1:0,"Unter 3,5 Tore",0.7304,0:2,0,0,1,0.339
+2026-10-27,IT2,Padova,Sudtirol,1,1:0,"Unter 3,5 Tore",0.768,2:0,1,0,1,0.2
+2026-10-27,IT2,Vicenza,Modena,2,0:1,Remis o. Modena,0.7472,1:2,1,0,1,0.169
+2026-10-27,IT2,Virtus Entella,Avellino,1,1:0,"Unter 3,5 Tore",0.7582,1:1,0,0,1,0.13
+2026-10-27,KNVB,Barendrecht,Waalwijk,2,0:2,Sieg Waalwijk,0.6835,1:1,0,0,0,0.242
+2026-10-27,KNVB,Excelsior '31,Den Haag,2,0:2,Sieg Den Haag,0.7705,1:1,0,0,0,0.308
+2026-10-27,KNVB,FC Eindhoven,Volendam,2,1:2,Remis o. Volendam,0.6827,5:3,0,0,0,0.329
+2026-10-27,KNVB,Helmond Sport,Willem II,2,1:2,Remis o. Willem II,0.7515,3:4,1,0,1,0.153
+2026-10-27,KNVB,Kloetinge,Cambuur,2,0:2,Sieg Cambuur,0.7354,0:2,1,1,1,0.041
+2026-10-27,KNVB,Koninklijke HFC,Go Ahead Eagles,2,0:2,Sieg Go Ahead Eagles,0.7484,0:5,1,0,1,0.037
+2026-10-27,KNVB,Telstar,Almere City,1,2:1,Telstar o. Remis,0.7029,0:2,0,0,0,0.347
+2026-10-27,OFB,Austria Vienna,Hartberg,1,1:0,Austria Vienna o. Remis,0.7618,1:1,0,0,1,0.156
+2026-10-27,OFB,First Vienna,SK Rapid,2,0:2,Sieg SK Rapid,0.6506,0:3,1,0,1,0.071
+2026-10-27,OFB,Grazer AK,Altach,X,1:1,Grazer AK o. Remis,0.6575,0:4,0,0,0,0.286
+2026-10-27,OFB,WSPG Wels,Wolfsberger AC,2,0:1,Remis o. Wolfsberger AC,0.7847,1:0,0,0,0,0.483
+2026-10-27,PP,Górnik Łęczna,GKS Katowice,2,1:2,Sieg GKS Katowice,0.5784,1:0,0,0,0,0.493
+2026-10-27,PP,Motor Lublin,Rakow,1,2:1,Motor Lublin o. Remis,0.6572,1:1,0,0,1,0.136
+2026-10-27,PP,Olimpia Grudziądz,Termalica B-B.,2,1:2,Remis o. Termalica B-B.,0.6759,0:1,1,0,1,0.227
+2026-10-27,PP,Piast Gliwice,Gornik Zabrze,2,1:2,Remis o. Gornik Zabrze,0.7297,0:0,0,0,1,0.147
+2026-10-27,SA1,Abha,Al-Faisaly FC,1,1:0,Abha o. Remis,0.6531,0:1,0,0,0,0.285
+2026-10-27,SC2,Stenhousemuir,Dunfermline,2,0:1,"Unter 3,5 Tore",0.7396,0:1,1,1,1,0.183
+2026-10-27,SC3,Ross County,Hamilton,1,2:0,"Über 1,5 Tore",0.7865,1:1,0,0,1,0.193
+2026-10-27,SCC,Penicuik Athletic,Clyde,2,0:2,Sieg Clyde,0.7099,1:1,0,0,0,0.259
+2026-10-27,SE1,AIK,Elfsborg,2,1:2,Remis o. Elfsborg,0.7242,2:2,0,0,1,0.154
+2026-10-27,SE2,Landskrona,Varberg,1,2:1,Landskrona o. Remis,0.7307,1:1,0,0,1,0.155
+2026-10-27,TRC,Adana Adaletgucu,Ankaragucu,2,0:2,Sieg Ankaragucu,0.7152,1:2,1,0,1,0.047
+2026-10-27,TRC,Alanyaspor,12 Bingölspor,1,4:0,Sieg Alanyaspor,0.9488,4:1,1,0,1,0.001
+2026-10-27,TRC,Ağrı 1970,Istanbulspor,2,0:2,Sieg Istanbulspor,0.7892,1:2,1,0,1,0.024
+2026-10-27,TRC,Boluspor,Karsiyaka,1,2:0,Sieg Boluspor,0.7264,1:1,0,0,0,0.268
+2026-10-27,TRC,Etimesgut SK,Gaziantep,2,0:2,Sieg Gaziantep,0.8116,0:4,1,0,1,0.019
+2026-10-27,TRC,Kocaelispor,Mazıdağı Fosfatspor,1,3:0,Sieg Kocaelispor,0.9132,3:0,1,1,1,0.005
+2026-10-27,TRC,Orduspor 1967,Vanspor FK,2,1:2,Remis o. Vanspor FK,0.6999,2:0,0,0,0,0.356
+2026-10-27,TRC,Sarıyer,Ayvalikgucu,1,2:0,Sieg Sarıyer,0.7511,1:0,1,0,1,0.035
