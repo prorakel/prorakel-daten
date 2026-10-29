@@ -5,10 +5,10 @@ Jede Prognose der [Prorakel-Engine](https://prorakel.de/so-funktionierts?via=git
 danebenlagen. Täglich aktualisiert. Dieselben Zeilen stehen in der
 [Bilanz auf prorakel.de](https://prorakel.de/bilanz?via=github).
 
-**Stand 28.10.2026:** 4.581 ausgewertete Spiele aus 66 Wettbewerben,
-2026-06-11 bis 2026-10-27. Die Tendenz (Heimsieg, Unentschieden, Auswärtssieg) traf in
-53,6 % der 4.581 Spiele (2.456), die Stärkste Ansage in
-75,6 % (3.465), das exakte Ergebnis in 10,8 % (497).
+**Stand 29.10.2026:** 4.642 ausgewertete Spiele aus 66 Wettbewerben,
+2026-06-11 bis 2026-10-28. Die Tendenz (Heimsieg, Unentschieden, Auswärtssieg) traf in
+53,5 % der 4.642 Spiele (2.483), die Stärkste Ansage in
+75,5 % (3.504), das exakte Ergebnis in 10,8 % (502).
 
 ## Datei
 
@@ -46,17 +46,17 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | 3. Liga | 110 | 42,7 % |
 | I Liga | 108 | 41,7 % |
 | Ekstraklasa | 106 | 45,3 % |
+| Allsvenskan | 106 | 49,1 % |
 | Nations League | 104 | 62,5 % |
 | WM 2026 | 104 | 62,5 % |
-| Allsvenskan | 102 | 50,0 % |
 | La Liga | 99 | 58,6 % |
 | 1. Division | 97 | 57,7 % |
 | Saudi Pro League | 95 | 54,7 % |
-| DBU Pokalen | 90 | 51,1 % |
+| DBU Pokalen | 93 | 51,6 % |
 | Ligue 2 | 90 | 46,7 % |
+| Serie B | 90 | 43,3 % |
 | Eredivisie | 90 | 50,0 % |
-| Serie B | 87 | 42,5 % |
-| Serie A | 83 | 61,4 % |
+| Serie A | 88 | 61,4 % |
 | 2. Bundesliga | 81 | 48,1 % |
 | Liga Portugal | 81 | 50,6 % |
 | Süper Lig | 81 | 49,4 % |
@@ -69,39 +69,39 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | 1. Division | 71 | 42,3 % |
 | Eliteserien | 70 | 52,9 % |
 | Super League | 66 | 56,1 % |
+| Veikkausliiga | 64 | 48,4 % |
 | Super League 2 | 64 | 53,1 % |
 | Bundesliga | 63 | 55,6 % |
-| Veikkausliiga | 63 | 49,2 % |
+| Premiership | 61 | 50,8 % |
 | Bundesliga | 60 | 61,7 % |
 | First Division | 59 | 47,5 % |
 | Super League | 55 | 60,0 % |
-| Premiership | 55 | 54,5 % |
 | HNL | 54 | 51,9 % |
 | Championship | 54 | 57,4 % |
 | League One | 54 | 61,1 % |
 | Ykkösliiga | 52 | 59,6 % |
 | League Two | 50 | 46,0 % |
+| DFB-Pokal | 48 | 70,8 % |
+| Puchar Polski | 48 | 50,0 % |
 | Schweizer Cup | 48 | 68,8 % |
 | Challenge League | 46 | 56,5 % |
 | Premier Division | 46 | 58,7 % |
-| Puchar Polski | 41 | 51,2 % |
-| DFB-Pokal | 40 | 72,5 % |
-| ÖFB Cup | 39 | 76,9 % |
-| Hrvatski kup | 33 | 69,7 % |
+| ÖFB Cup | 42 | 73,8 % |
+| Griechischer Pokal | 35 | 65,7 % |
+| Hrvatski kup | 34 | 67,6 % |
 | Svenska Cupen | 33 | 69,7 % |
-| Griechischer Pokal | 30 | 66,7 % |
 | Coppa Italia | 28 | 67,9 % |
+| Türkiye Kupası | 27 | 59,3 % |
 | Taça de Portugal | 25 | 56,0 % |
 | Belgischer Pokal | 22 | 81,8 % |
-| Türkiye Kupası | 18 | 72,2 % |
 | Scottish Cup | 15 | 40,0 % |
 | FAI Cup | 14 | 64,3 % |
 | Copa del Rey | 13 | 46,2 % |
+| KNVB Beker | 13 | 46,2 % |
 | FA Cup | 7 | 57,1 % |
-| KNVB Beker | 7 | 42,9 % |
 | DFL-Supercup | 1 | 100,0 % |
 | Suomen Cup | 1 | 100,0 % |
-| **Gesamt** | **4.581** | **53,6 %** |
+| **Gesamt** | **4.642** | **53,5 %** |
 
 Kleine Stichproben schwanken stark — ein Wettbewerb mit wenigen Spielen sagt
 wenig über die Engine.
@@ -110,12 +110,12 @@ wenig über die Engine.
 
 Die Nutzung ist frei, Bedingung ist die Quellenangabe. So passt sie:
 
-> Quelle: Prorakel, [prorakel.de](https://prorakel.de/bilanz?via=zitat) · Prognose-Archiv, Stand 28.10.2026
+> Quelle: Prorakel, [prorakel.de](https://prorakel.de/bilanz?via=zitat) · Prognose-Archiv, Stand 29.10.2026
 
 Ein Satz zum Übernehmen — Stichprobe und Stand stehen schon drin:
 
 > Laut dem Prognose-Archiv von Prorakel traf die vor dem Anpfiff festgelegte
-> Tendenz in 53,6 % von 4.581 Spielen aus 66 Wettbewerben (Stand 28.10.2026).
+> Tendenz in 53,5 % von 4.642 Spielen aus 66 Wettbewerben (Stand 29.10.2026).
 
 Für wissenschaftliche Arbeiten liefert GitHub über „Cite this repository“
 (rechte Spalte, aus `CITATION.cff`) die Angabe als APA und BibTeX.
@@ -124,8 +124,8 @@ Für wissenschaftliche Arbeiten liefert GitHub über „Cite this repository“
 
 Every pre-match forecast of the Prorakel engine (Elo ratings for team strength,
 Poisson for goals), fixed before kick-off and evaluated after the final
-whistle — including the misses. 4.581 matches from 66 competitions,
-2026-06-11 to 2026-10-27, updated daily. Column names are German: `datum` date ·
+whistle — including the misses. 4.642 matches from 66 competitions,
+2026-06-11 to 2026-10-28, updated daily. Column names are German: `datum` date ·
 `wettbewerb` competition · `heim`/`gast` home/away · `tendenz` 1/X/2 call ·
 `ergebnis_prognose` most likely score · `staerkste_ansage` the statement with
 the highest probability, `staerkste_ansage_wahrscheinlichkeit` its pre-match
