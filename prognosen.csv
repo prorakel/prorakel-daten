@@ -4964,3 +4964,35 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-11-01,TR2,Istanbulspor,Mardin 1969,2,0:1,"Unter 3,5 Tore",0.747,1:2,1,0,1,0.172
 2026-11-01,TR2,Iğdır FK,Antalyaspor,1,1:0,"Unter 3,5 Tore",0.7228,1:1,0,0,1,0.138
 2026-11-01,TR2,Sivasspor,Boluspor,1,2:0,"Über 1,5 Tore",0.7849,1:2,0,0,1,0.577
+2026-11-02,DK1,Sonderjyske,FC Copenhagen,2,0:2,"Über 1,5 Tore",0.8251,0:2,1,1,1,0.063
+2026-11-02,EN1,Newcastle,Everton,1,2:1,"Unter 3,5 Tore",0.6648,0:1,0,0,1,0.357
+2026-11-02,ES1,La Coruna,Osasuna,1,1:0,"Unter 3,5 Tore",0.7721,2:1,1,0,1,0.177
+2026-11-02,ES2,Mallorca,Cadiz,1,2:0,"Über 1,5 Tore",0.7536,2:1,1,0,1,0.064
+2026-11-02,ES2,Oviedo,Las Palmas,1,1:0,Oviedo o. Remis,0.8064,2:3,0,0,0,0.493
+2026-11-02,ES2,Tenerife,Andorra,1,1:0,Tenerife o. Remis,0.7343,2:2,0,0,1,0.135
+2026-11-02,ES2,Valladolid,Leganes,1,1:0,"Unter 3,5 Tore",0.7533,4:3,1,0,0,0.171
+2026-11-02,FI1,Inter Turku,Gnistan,1,2:0,"Über 1,5 Tore",0.8053,4:3,1,0,1,0.07
+2026-11-02,FI1,VPS,HJK,2,1:2,"Über 1,5 Tore",0.8375,0:4,1,0,1,0.071
+2026-11-02,FR1,Lorient,Brest,X,1:1,"Über 1,5 Tore",0.7046,0:2,0,0,1,0.311
+2026-11-02,FR2,Red Star,Nancy,1,1:0,"Unter 3,5 Tore",0.7243,1:4,0,0,0,0.336
+2026-11-02,FR2,Reims,Sochaux,1,1:0,"Unter 3,5 Tore",0.6734,2:0,1,0,1,0.095
+2026-11-02,GR1,Atromitos,Volos NFC,1,1:0,Atromitos o. Remis,0.7905,3:0,1,0,1,0.13
+2026-11-02,GR1,Kalamata,Iraklis 1908,1,1:0,"Unter 3,5 Tore",0.7638,1:1,0,0,1,0.13
+2026-11-02,GR2,Marko,Apollon Pontou,1,2:0,"Über 1,5 Tore",0.7925,2:0,1,1,1,0.025
+2026-11-02,IT1,Atalanta,Parma,1,2:0,"Über 1,5 Tore",0.818,0:3,0,0,1,0.592
+2026-11-02,IT1,Sassuolo,Fiorentina,2,1:2,"Über 1,5 Tore",0.806,2:4,1,0,1,0.238
+2026-11-02,NO2,Kongsvinger,Stabaek,1,2:1,"Über 2,5 Tore",0.7659,1:2,0,0,1,0.347
+2026-11-02,PL1,Radomiak Radom,Slask Wroclaw,1,2:1,Radomiak Radom o. Remis,0.74,3:1,1,0,1,0.164
+2026-11-02,PL1,Rakow,Pogon Szczecin,1,2:1,"Unter 3,5 Tore",0.6537,3:1,1,0,0,0.228
+2026-11-02,PL1,Zaglebie,Korona Kielce,1,1:0,"Unter 3,5 Tore",0.7262,1:0,1,1,1,0.24
+2026-11-02,PL2,LKS Lodz,Polonia Warszawa,1,2:1,"Unter 3,5 Tore",0.6759,1:1,0,0,1,0.132
+2026-11-02,PL2,Polonia Bytom,Odra Opole,1,2:1,"Unter 3,5 Tore",0.6744,3:0,1,0,1,0.193
+2026-11-02,PL2,Stal Rzeszów,Puszcza,1,2:1,"Unter 3,5 Tore",0.6594,2:2,0,0,0,0.131
+2026-11-02,PT1,Benfica,Alverca,1,2:0,"Über 1,5 Tore",0.8616,1:0,1,0,0,0.016
+2026-11-02,PT1,Gil Vicente,Guimaraes,X,1:1,"Über 1,5 Tore",0.6906,0:0,1,0,0,0.124
+2026-11-02,SE1,GAIS,AIK,1,2:1,GAIS o. Remis,0.7712,2:1,1,1,1,0.134
+2026-11-02,SE1,Mjallby,Kalmar,1,1:0,"Unter 3,5 Tore",0.7143,0:0,0,0,1,0.133
+2026-11-02,SE2,Landskrona,Orebro,1,2:1,Landskrona o. Remis,0.7865,2:1,1,1,1,0.125
+2026-11-02,SE2,Oster,Helsingborg,1,2:1,Oster o. Remis,0.673,3:0,1,0,1,0.221
+2026-11-02,TR1,Genclerbirligi,Alanyaspor,X,1:1,"Über 1,5 Tore",0.7271,5:0,0,0,1,0.292
+2026-11-02,TR2,Kayserispor,Muğlaspor,1,2:0,"Über 1,5 Tore",0.7875,6:0,1,0,1,0.071
