@@ -5022,3 +5022,19 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-11-03,PL2,Chrobry Głogów,Arka Gdynia,X,1:1,"Über 1,5 Tore",0.7144,0:0,1,0,0,0.125
 2026-11-03,PL2,Pogoń Siedlce,Ruch Chorzow,2,0:1,Remis o. Ruch Chorzow,0.7721,1:1,0,0,1,0.161
 2026-11-03,SE1,Sirius,Halmstad,1,2:0,"Über 1,5 Tore",0.8547,2:0,1,1,1,0.043
+2026-11-04,BE1,Kortrijk,Mechelen,1,2:1,"Unter 3,5 Tore",0.6905,1:3,0,0,0,0.326
+2026-11-04,CL,AEK,Real Madrid,2,0:2,"Unter 4,5 Tore",0.6744,2:3,1,0,0,0.045
+2026-11-04,CL,Dortmund,Betis,1,2:1,"Über 2,5 Tore",0.6284,2:1,1,1,1,0.117
+2026-11-04,CL,Fenerbahce,Liverpool,2,1:2,Remis o. Liverpool,0.8027,3:2,0,0,0,0.498
+2026-11-04,CL,Lens,Como,2,1:2,Remis o. Como,0.7319,1:9,1,0,1,0.175
+2026-11-04,CL,PSV Eindhoven,Club Brugge,1,2:1,PSV Eindhoven o. Remis,0.6942,1:2,0,0,0,0.346
+2026-11-04,CL,Porto,Napoli,1,1:0,Porto o. Remis,0.7618,4:1,1,0,1,0.155
+2026-11-04,CL,RB Leipzig,Man City,2,1:2,Sieg Man City,0.6142,2:3,1,0,1,0.091
+2026-11-04,CL,Slavia Praha,Arsenal,2,0:2,Slavia Praha o. Arsenal,0.8345,1:2,1,0,1,0.033
+2026-11-04,CL,Viking,Sabah FA,1,2:1,Viking o. Remis,0.8443,4:1,1,0,1,0.07
+2026-11-04,EL,Rennes,Olympiakos,1,2:1,Rennes o. Remis,0.6718,0:0,0,0,1,0.138
+2026-11-04,EN2,Bristol City,Wolves,2,0:1,"Unter 3,5 Tore",0.7207,1:2,1,0,1,0.179
+2026-11-04,EN2,Cardiff,West Ham,2,1:2,"Über 1,5 Tore",0.8425,3:3,0,0,1,0.165
+2026-11-04,EN2,Wrexham,Middlesbrough,2,1:2,Remis o. Middlesbrough,0.7802,2:0,0,0,0,0.483
+2026-11-04,EN3,Oxford,Reading,1,1:0,"Unter 3,5 Tore",0.7134,2:0,1,0,1,0.261
+2026-11-04,TRC,Fethiyespor,Eyupspor,2,0:2,Sieg Eyupspor,0.6382,2:4,1,0,1,0.076

@@ -5,10 +5,10 @@ Jede Prognose der [Prorakel-Engine](https://prorakel.de/so-funktionierts?via=git
 danebenlagen. Täglich aktualisiert. Dieselben Zeilen stehen in der
 [Bilanz auf prorakel.de](https://prorakel.de/bilanz?via=github).
 
-**Stand 04.11.2026:** 5.023 ausgewertete Spiele aus 66 Wettbewerben,
-2026-06-11 bis 2026-11-03. Die Tendenz (Heimsieg, Unentschieden, Auswärtssieg) traf in
-53,7 % der 5.023 Spiele (2.698), die Stärkste Ansage in
-75,5 % (3.793), das exakte Ergebnis in 10,8 % (542).
+**Stand 05.11.2026:** 5.039 ausgewertete Spiele aus 66 Wettbewerben,
+2026-06-11 bis 2026-11-04. Die Tendenz (Heimsieg, Unentschieden, Auswärtssieg) traf in
+53,7 % der 5.039 Spiele (2.708), die Stärkste Ansage in
+75,5 % (3.804), das exakte Ergebnis in 10,8 % (543).
 
 ## Datei
 
@@ -36,12 +36,12 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | Wettbewerb | Spiele | Tendenz getroffen |
 |---|---|---|
 | Conference League | 242 | 59,5 % |
-| Championship | 165 | 48,5 % |
-| League One | 157 | 47,1 % |
+| Championship | 168 | 48,2 % |
+| League One | 158 | 47,5 % |
+| Champions League | 134 | 64,2 % |
 | La Liga 2 | 131 | 48,1 % |
 | 1. Lig | 130 | 45,4 % |
-| Champions League | 125 | 63,2 % |
-| Europa League | 122 | 56,6 % |
+| Europa League | 123 | 56,1 % |
 | 3. Liga | 120 | 43,3 % |
 | Superettan | 120 | 47,5 % |
 | I Liga | 117 | 41,0 % |
@@ -57,11 +57,11 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | Ligue 2 | 99 | 46,5 % |
 | Eredivisie | 99 | 50,5 % |
 | DBU Pokalen | 96 | 53,1 % |
+| Jupiler Pro League | 90 | 62,2 % |
 | 2. Bundesliga | 90 | 50,0 % |
 | Premier League | 90 | 48,9 % |
 | Liga Portugal | 90 | 54,4 % |
 | Süper Lig | 90 | 50,0 % |
-| Jupiler Pro League | 89 | 62,9 % |
 | First NL | 87 | 36,8 % |
 | 2. Liga | 82 | 61,0 % |
 | Ligue 1 | 81 | 55,6 % |
@@ -90,7 +90,7 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | Griechischer Pokal | 36 | 63,9 % |
 | Hrvatski kup | 36 | 66,7 % |
 | Svenska Cupen | 33 | 69,7 % |
-| Türkiye Kupası | 31 | 58,1 % |
+| Türkiye Kupası | 32 | 59,4 % |
 | Copa del Rey | 30 | 73,3 % |
 | Coppa Italia | 28 | 67,9 % |
 | Taça de Portugal | 25 | 56,0 % |
@@ -101,7 +101,7 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | FA Cup | 7 | 57,1 % |
 | DFL-Supercup | 1 | 100,0 % |
 | Suomen Cup | 1 | 100,0 % |
-| **Gesamt** | **5.023** | **53,7 %** |
+| **Gesamt** | **5.039** | **53,7 %** |
 
 Kleine Stichproben schwanken stark — ein Wettbewerb mit wenigen Spielen sagt
 wenig über die Engine.
@@ -110,12 +110,12 @@ wenig über die Engine.
 
 Die Nutzung ist frei, Bedingung ist die Quellenangabe. So passt sie:
 
-> Quelle: Prorakel, [prorakel.de](https://prorakel.de/bilanz?via=zitat) · Prognose-Archiv, Stand 04.11.2026
+> Quelle: Prorakel, [prorakel.de](https://prorakel.de/bilanz?via=zitat) · Prognose-Archiv, Stand 05.11.2026
 
 Ein Satz zum Übernehmen — Stichprobe und Stand stehen schon drin:
 
 > Laut dem Prognose-Archiv von Prorakel traf die vor dem Anpfiff festgelegte
-> Tendenz in 53,7 % von 5.023 Spielen aus 66 Wettbewerben (Stand 04.11.2026).
+> Tendenz in 53,7 % von 5.039 Spielen aus 66 Wettbewerben (Stand 05.11.2026).
 
 Für wissenschaftliche Arbeiten liefert GitHub über „Cite this repository“
 (rechte Spalte, aus `CITATION.cff`) die Angabe als APA und BibTeX.
@@ -124,8 +124,8 @@ Für wissenschaftliche Arbeiten liefert GitHub über „Cite this repository“
 
 Every pre-match forecast of the Prorakel engine (Elo ratings for team strength,
 Poisson for goals), fixed before kick-off and evaluated after the final
-whistle — including the misses. 5.023 matches from 66 competitions,
-2026-06-11 to 2026-11-03, updated daily. Column names are German: `datum` date ·
+whistle — including the misses. 5.039 matches from 66 competitions,
+2026-06-11 to 2026-11-04, updated daily. Column names are German: `datum` date ·
 `wettbewerb` competition · `heim`/`gast` home/away · `tendenz` 1/X/2 call ·
 `ergebnis_prognose` most likely score · `staerkste_ansage` the statement with
 the highest probability, `staerkste_ansage_wahrscheinlichkeit` its pre-match
