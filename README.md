@@ -5,10 +5,10 @@ Jede Prognose der [Prorakel-Engine](https://prorakel.de/so-funktionierts?via=git
 danebenlagen. Täglich aktualisiert. Dieselben Zeilen stehen in der
 [Bilanz auf prorakel.de](https://prorakel.de/bilanz?via=github).
 
-**Stand 05.11.2026:** 5.039 ausgewertete Spiele aus 66 Wettbewerben,
-2026-06-11 bis 2026-11-04. Die Tendenz (Heimsieg, Unentschieden, Auswärtssieg) traf in
-53,7 % der 5.039 Spiele (2.708), die Stärkste Ansage in
-75,5 % (3.804), das exakte Ergebnis in 10,8 % (543).
+**Stand 06.11.2026:** 5.074 ausgewertete Spiele aus 66 Wettbewerben,
+2026-06-11 bis 2026-11-05. Die Tendenz (Heimsieg, Unentschieden, Auswärtssieg) traf in
+53,7 % der 5.074 Spiele (2.727), die Stärkste Ansage in
+75,5 % (3.830), das exakte Ergebnis in 10,8 % (546).
 
 ## Datei
 
@@ -35,13 +35,13 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 
 | Wettbewerb | Spiele | Tendenz getroffen |
 |---|---|---|
-| Conference League | 242 | 59,5 % |
+| Conference League | 260 | 59,6 % |
 | Championship | 168 | 48,2 % |
 | League One | 158 | 47,5 % |
+| Europa League | 140 | 55,0 % |
 | Champions League | 134 | 64,2 % |
 | La Liga 2 | 131 | 48,1 % |
 | 1. Lig | 130 | 45,4 % |
-| Europa League | 123 | 56,1 % |
 | 3. Liga | 120 | 43,3 % |
 | Superettan | 120 | 47,5 % |
 | I Liga | 117 | 41,0 % |
@@ -101,7 +101,7 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | FA Cup | 7 | 57,1 % |
 | DFL-Supercup | 1 | 100,0 % |
 | Suomen Cup | 1 | 100,0 % |
-| **Gesamt** | **5.039** | **53,7 %** |
+| **Gesamt** | **5.074** | **53,7 %** |
 
 Kleine Stichproben schwanken stark — ein Wettbewerb mit wenigen Spielen sagt
 wenig über die Engine.
@@ -110,12 +110,12 @@ wenig über die Engine.
 
 Die Nutzung ist frei, Bedingung ist die Quellenangabe. So passt sie:
 
-> Quelle: Prorakel, [prorakel.de](https://prorakel.de/bilanz?via=zitat) · Prognose-Archiv, Stand 05.11.2026
+> Quelle: Prorakel, [prorakel.de](https://prorakel.de/bilanz?via=zitat) · Prognose-Archiv, Stand 06.11.2026
 
 Ein Satz zum Übernehmen — Stichprobe und Stand stehen schon drin:
 
 > Laut dem Prognose-Archiv von Prorakel traf die vor dem Anpfiff festgelegte
-> Tendenz in 53,7 % von 5.039 Spielen aus 66 Wettbewerben (Stand 05.11.2026).
+> Tendenz in 53,7 % von 5.074 Spielen aus 66 Wettbewerben (Stand 06.11.2026).
 
 Für wissenschaftliche Arbeiten liefert GitHub über „Cite this repository“
 (rechte Spalte, aus `CITATION.cff`) die Angabe als APA und BibTeX.
@@ -124,8 +124,8 @@ Für wissenschaftliche Arbeiten liefert GitHub über „Cite this repository“
 
 Every pre-match forecast of the Prorakel engine (Elo ratings for team strength,
 Poisson for goals), fixed before kick-off and evaluated after the final
-whistle — including the misses. 5.039 matches from 66 competitions,
-2026-06-11 to 2026-11-04, updated daily. Column names are German: `datum` date ·
+whistle — including the misses. 5.074 matches from 66 competitions,
+2026-06-11 to 2026-11-05, updated daily. Column names are German: `datum` date ·
 `wettbewerb` competition · `heim`/`gast` home/away · `tendenz` 1/X/2 call ·
 `ergebnis_prognose` most likely score · `staerkste_ansage` the statement with
 the highest probability, `staerkste_ansage_wahrscheinlichkeit` its pre-match
