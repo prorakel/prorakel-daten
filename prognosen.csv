@@ -5073,3 +5073,50 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-11-05,EL,Sturm Graz,Celje,1,2:0,Sieg Sturm Graz,0.6094,2:3,0,0,0,0.53
 2026-11-05,EL,Sunderland,Dinamo Zagreb,1,1:0,Sunderland o. Remis,0.7939,0:2,0,0,0,0.483
 2026-11-05,EL,Torreense,Ararat-Armenia,1,1:0,Torreense o. Remis,0.785,3:2,1,0,1,0.134
+2026-11-06,AT1,SK Rapid,Wolfsberger AC,1,2:0,"Über 1,5 Tore",0.8616,6:0,1,0,1,0.026
+2026-11-06,AT2,Admira Wacker,SKN ST. Polten,2,1:2,"Über 1,5 Tore",0.8156,2:2,0,0,1,0.143
+2026-11-06,AT2,Austria Vienna (Am),First Vienna,2,1:2,Remis o. First Vienna,0.7275,1:1,0,0,1,0.149
+2026-11-06,AT2,FC Liefering,Austria Salzburg,2,1:2,"Über 1,5 Tore",0.8423,4:1,0,0,1,0.27
+2026-11-06,AT2,SKU Amstetten,Wacker Innsbruck,1,2:1,"Über 1,5 Tore",0.7993,2:3,0,0,1,0.367
+2026-11-06,BE1,Standard,Beveren,1,2:1,"Über 1,5 Tore",0.7968,3:0,1,0,1,0.149
+2026-11-06,BL1,Hamburg,M'gladbach,1,2:1,"Unter 3,5 Tore",0.6492,3:1,1,0,0,0.221
+2026-11-06,BL2,Braunschweig,Cottbus,1,2:1,"Über 1,5 Tore",0.8384,0:0,0,0,0,0.155
+2026-11-06,BL2,Dresden,Greuther Furth,1,2:1,"Über 1,5 Tore",0.7951,3:0,1,0,1,0.163
+2026-11-06,BL3,Viktoria Köln,Saarbrücken,1,2:1,"Über 1,5 Tore",0.8388,5:3,1,0,1,0.149
+2026-11-06,CH2,FC Aarau,FC WIL 1900,1,2:1,"Über 1,5 Tore",0.8218,0:3,0,0,1,0.448
+2026-11-06,CH2,SC Kriens,Rapperswil,1,2:1,"Über 1,5 Tore",0.8451,1:0,1,0,0,0.196
+2026-11-06,CH2,Stade Nyonnais,Stade Lausanne-Ouchy,2,0:2,"Über 1,5 Tore",0.819,1:5,1,0,1,0.07
+2026-11-06,DK1,Silkeborg,Lyngby,1,2:1,"Über 1,5 Tore",0.7957,1:0,1,0,0,0.247
+2026-11-06,DK2,AB Copenhagen,Vendsyssel FF,1,2:1,"Über 1,5 Tore",0.8098,3:0,1,0,1,0.146
+2026-11-06,DK2,HB Koge,Aalborg,2,1:2,Remis o. Aalborg,0.7129,1:1,0,0,1,0.144
+2026-11-06,DK2,Vejle,Fredericia,2,1:2,"Über 1,5 Tore",0.8193,1:0,0,0,0,0.283
+2026-11-06,EN1,Everton,Coventry,1,1:0,"Unter 3,5 Tore",0.6651,3:1,1,0,0,0.099
+2026-11-06,EN2,Derby,Bolton,2,1:2,"Unter 3,5 Tore",0.6593,3:1,0,0,0,0.279
+2026-11-06,ES1,Sevilla,Alaves,1,1:0,"Unter 3,5 Tore",0.7698,0:0,0,0,1,0.147
+2026-11-06,FA,Bristol Rvs,Cambridge,2,1:2,Remis o. Cambridge,0.6921,2:0,0,0,0,0.332
+2026-11-06,FA,Oxford City,Leicester,2,0:2,Sieg Leicester,0.7238,2:4,1,0,1,0.045
+2026-11-06,FR1,Toulouse,Strasbourg,1,2:1,Toulouse o. Remis,0.7046,3:1,1,0,1,0.196
+2026-11-06,FR2,Boulogne,Annecy,X,1:1,"Über 1,5 Tore",0.6716,3:0,0,0,1,0.24
+2026-11-06,FR2,Dijon,Red Star,1,2:1,"Unter 3,5 Tore",0.6619,1:0,1,0,1,0.267
+2026-11-06,FR2,Dunkerque,Guingamp,2,1:2,"Unter 3,5 Tore",0.6556,3:0,0,0,1,0.318
+2026-11-06,FR2,Grenoble,Reims,2,0:1,Remis o. Reims,0.7898,3:2,0,0,0,0.464
+2026-11-06,FR2,Montpellier,Metz,1,2:1,Montpellier o. Remis,0.7782,2:3,0,0,0,0.439
+2026-11-06,FR2,Nancy,Sochaux,1,1:0,"Unter 3,5 Tore",0.7102,1:0,1,1,1,0.091
+2026-11-06,HR1,NK Lokomotiva Zagreb,Rudes,1,1:0,"Unter 3,5 Tore",0.6973,0:1,0,0,1,0.391
+2026-11-06,HR2,Dinamo Zagreb U21,Jadran LP,1,1:0,"Unter 3,5 Tore",0.7173,0:1,0,0,1,0.284
+2026-11-06,HR2,Karlovac 1919,Vukovar,1,1:0,"Unter 3,5 Tore",0.7308,1:4,0,0,0,0.386
+2026-11-06,HR2,Kustosija,Orijent 1919,1,1:0,"Unter 3,5 Tore",0.7324,2:0,1,0,1,0.171
+2026-11-06,HR2,Sesvete,Bsk Bijelo Brdo,1,1:0,"Unter 3,5 Tore",0.8077,4:1,1,0,0,0.199
+2026-11-06,IT1,Venezia,Udinese,1,1:0,"Unter 3,5 Tore",0.696,2:1,1,0,1,0.223
+2026-11-06,IT2,Ascoli,Palermo,2,1:2,"Unter 3,5 Tore",0.6637,1:1,0,0,1,0.134
+2026-11-06,NL1,Willem II,Zwolle,2,1:2,Remis o. Zwolle,0.7203,1:1,0,0,1,0.145
+2026-11-06,PL1,Motor Lublin,Wisla Plock,1,2:1,Motor Lublin o. Remis,0.7464,3:2,1,0,1,0.156
+2026-11-06,PL1,Wisla,Cracovia,1,2:1,Wisla o. Remis,0.7882,2:1,1,1,1,0.126
+2026-11-06,PL2,Odra Opole,Unia Skierniewice,1,2:1,Odra Opole o. Remis,0.7235,3:5,0,0,0,0.365
+2026-11-06,PL2,Puszcza,Legnica,2,1:2,"Unter 3,5 Tore",0.679,1:1,0,0,1,0.132
+2026-11-06,PT1,Famalicao,Arouca,1,1:0,"Unter 3,5 Tore",0.757,1:0,1,1,1,0.221
+2026-11-06,SC2,Raith Rvs,Dunfermline,X,1:1,"Über 1,5 Tore",0.695,0:0,1,0,0,0.128
+2026-11-06,SE1,Hammarby,Elfsborg,1,2:0,"Über 1,5 Tore",0.8131,4:1,1,0,1,0.046
+2026-11-06,TR1,Gaziantep,Kasimpasa,2,1:2,"Unter 3,5 Tore",0.6883,0:2,1,0,1,0.257
+2026-11-06,TR2,Antalyaspor,Bursaspor,2,0:1,Remis o. Bursaspor,0.7916,1:1,0,0,1,0.168
+2026-11-06,TR2,Sarıyer,Iğdır FK,X,1:1,"Über 1,5 Tore",0.7113,1:1,1,1,1,0.125
