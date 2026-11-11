@@ -17,7 +17,7 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-06-16,WM2026,Iran,Neuseeland,1,2:0,"Unter 2,5 Tore",0.5533,2:2,0,0,0,0.14
 2026-06-16,WM2026,Saudi Arabien,Uruguay,2,0:3,Sieg Uruguay,0.6842,1:1,0,0,0,0.24
 2026-06-17,WM2026,Argentinien,Algerien,1,2:0,Sieg Argentinien,0.6773,3:0,1,0,1,0.058
-2026-06-17,WM2026,England,Kroatien,1,1:0,Sieg England,0.7704,4:2,1,0,1,0.126
+2026-06-17,WM2026,England,Kroatien,1,1:0,Sieg England,0.7825,4:2,1,0,1,0.126
 2026-06-17,WM2026,Irak,Norwegen,2,0:2,"Unter 3,5 Tore",0.7225,1:4,1,0,0,0.054
 2026-06-17,WM2026,Portugal,DR Kongo,1,2:0,Nicht beide treffen,0.605,1:1,0,0,0,0.243
 2026-06-17,WM2026,Österreich,Jordanien,1,2:0,Nicht beide treffen,0.6187,3:1,1,0,0,0.053
@@ -5395,3 +5395,8 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-11-09,ES2,Sabadell,Sociedad B,1,1:0,Sabadell o. Remis,0.8103,0:0,0,0,1,0.178
 2026-11-09,GR2,Zakynthos,Niki Volos,2,0:2,"Über 1,5 Tore",0.7112,0:2,1,1,1,0.05
 2026-11-09,NO1,Kristiansund,Valerenga,2,1:2,"Über 2,5 Tore",0.6771,1:0,0,0,0,0.341
+2026-11-10,COPA,Amorebieta,UD Logroñés,1,1:0,Amorebieta o. Remis,0.6697,1:0,1,1,1,0.226
+2026-11-10,COPA,Anaitasuna,Alaves,2,0:3,Nicht beide treffen,0.5858,1:6,1,0,0,0.008
+2026-11-10,COPA,Pamplona,Eibar,2,0:2,Nicht beide treffen,0.5859,0:3,1,0,1,0.023
+2026-11-10,COPA,Tavernes,Valencia,2,0:4,Sieg Valencia,0.9381,0:6,1,0,1,0.002
+2026-11-10,COPA,Trival Valderas,Leganes,2,0:2,Nicht beide treffen,0.6199,0:1,1,0,1,0.024
