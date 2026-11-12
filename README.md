@@ -5,7 +5,7 @@ Jede Prognose der [Prorakel-Engine](https://prorakel.de/so-funktionierts?via=git
 danebenlagen. Täglich aktualisiert. Dieselben Zeilen stehen in der
 [Bilanz auf prorakel.de](https://prorakel.de/bilanz?via=github).
 
-**Stand 11.11.2026:** 5.401 ausgewertete Spiele aus 66 Wettbewerben,
+**Stand 12.11.2026:** 5.401 ausgewertete Spiele aus 66 Wettbewerben,
 2026-06-11 bis 2026-11-10. Die Tendenz (Heimsieg, Unentschieden, Auswärtssieg) traf in
 53,8 % der 5.401 Spiele (2.905), die Stärkste Ansage in
 75,4 % (4.073), das exakte Ergebnis in 10,8 % (582).
@@ -110,12 +110,12 @@ wenig über die Engine.
 
 Die Nutzung ist frei, Bedingung ist die Quellenangabe. So passt sie:
 
-> Quelle: Prorakel, [prorakel.de](https://prorakel.de/bilanz?via=zitat) · Prognose-Archiv, Stand 11.11.2026
+> Quelle: Prorakel, [prorakel.de](https://prorakel.de/bilanz?via=zitat) · Prognose-Archiv, Stand 12.11.2026
 
 Ein Satz zum Übernehmen — Stichprobe und Stand stehen schon drin:
 
 > Laut dem Prognose-Archiv von Prorakel traf die vor dem Anpfiff festgelegte
-> Tendenz in 53,8 % von 5.401 Spielen aus 66 Wettbewerben (Stand 11.11.2026).
+> Tendenz in 53,8 % von 5.401 Spielen aus 66 Wettbewerben (Stand 12.11.2026).
 
 Für wissenschaftliche Arbeiten liefert GitHub über „Cite this repository“
 (rechte Spalte, aus `CITATION.cff`) die Angabe als APA und BibTeX.
