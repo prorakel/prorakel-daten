@@ -5716,3 +5716,91 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-11-21,TR2,Karagumruk,Boluspor,1,2:0,"Über 1,5 Tore",0.808,0:0,0,0,0,0.325
 2026-11-21,TR2,Kayserispor,Sarıyer,1,2:0,"Über 1,5 Tore",0.7894,3:1,1,0,1,0.059
 2026-11-21,TR2,Mardin 1969,Bandırmaspor,1,1:0,Mardin 1969 o. Remis,0.8077,1:2,0,0,0,0.476
+2026-11-22,AT1,Altach,Sturm Graz,2,1:2,Remis o. Sturm Graz,0.7528,1:0,0,0,0,0.408
+2026-11-22,AT1,Austria Vienna,Salzburg,2,1:2,"Über 1,5 Tore",0.8244,1:0,0,0,0,0.489
+2026-11-22,AT1,Wolfsberger AC,Ried,2,1:2,Remis o. Ried,0.6961,1:2,1,1,1,0.202
+2026-11-22,BE1,Anderlecht,Oud-Heverlee Leuven,1,2:0,"Über 1,5 Tore",0.8109,1:0,1,0,0,0.078
+2026-11-22,BE1,Beveren,Gent,2,0:1,Remis o. Gent,0.7872,1:0,0,0,0,0.451
+2026-11-22,BE1,Kortrijk,St. Gilloise,2,0:2,"Über 1,5 Tore",0.7999,0:1,1,0,0,0.047
+2026-11-22,BE1,Lommel SK,Standard,2,1:2,"Über 1,5 Tore",0.8206,1:2,1,1,1,0.209
+2026-11-22,BL1,Augsburg,Mainz,2,1:2,"Über 1,5 Tore",0.8433,3:1,0,0,1,0.284
+2026-11-22,BL1,Werder Bremen,Hamburg,1,2:1,"Über 1,5 Tore",0.8074,4:0,1,0,1,0.098
+2026-11-22,BL2,Cottbus,Hertha,2,1:2,"Über 2,5 Tore",0.6919,0:4,1,0,1,0.1
+2026-11-22,BL2,Kaiserslautern,Dresden,1,2:1,Kaiserslautern o. Remis,0.7324,2:2,0,0,1,0.148
+2026-11-22,BL2,Karlsruhe,Osnabruck,1,2:1,"Unter 3,5 Tore",0.6426,0:0,0,0,1,0.137
+2026-11-22,BL3,MSV Duisburg,Hansa Rostock,1,2:1,"Über 1,5 Tore",0.7899,2:0,1,0,1,0.19
+2026-11-22,BL3,Saarbrücken,Wehen,1,2:1,"Über 1,5 Tore",0.8104,2:1,1,1,1,0.253
+2026-11-22,BL3,Stuttgart II,Ingolstadt,2,1:2,"Über 1,5 Tore",0.8375,5:0,0,0,1,0.312
+2026-11-22,CH1,Basel,Luzern,1,2:1,"Über 2,5 Tore",0.7001,0:2,0,0,0,0.335
+2026-11-22,CH1,Lausanne,Vaduz,1,2:1,"Über 1,5 Tore",0.8326,2:2,0,0,1,0.159
+2026-11-22,CH1,Zurich,St. Gallen,2,1:2,"Über 2,5 Tore",0.6651,2:2,0,0,1,0.152
+2026-11-22,DK1,Horsens,Silkeborg,1,2:1,"Unter 3,5 Tore",0.6679,3:1,1,0,0,0.217
+2026-11-22,DK1,Nordsjaelland,FC Copenhagen,1,2:1,"Unter 3,5 Tore",0.6692,5:0,1,0,0,0.265
+2026-11-22,DK1,Sonderjyske,Odense,2,1:2,"Über 1,5 Tore",0.796,1:2,1,1,1,0.192
+2026-11-22,DK1,Viborg,Randers FC,1,2:1,"Über 1,5 Tore",0.8286,0:0,0,0,0,0.212
+2026-11-22,EN1,Hull,Brighton,2,0:2,"Über 1,5 Tore",0.7788,2:0,0,0,1,0.571
+2026-11-22,EN1,Liverpool,Man United,1,2:1,"Über 1,5 Tore",0.8242,4:0,1,0,1,0.122
+2026-11-22,EN2,Burnley,Blackburn,1,1:0,Burnley o. Remis,0.7608,2:2,0,0,1,0.16
+2026-11-22,ES1,Barcelona,Villarreal,1,3:0,"Über 2,5 Tore",0.792,3:2,1,0,1,0.02
+2026-11-22,ES1,Getafe,Ath Madrid,2,0:1,"Unter 3,5 Tore",0.7603,0:3,1,0,1,0.079
+2026-11-22,ES1,Osasuna,Malaga,1,1:0,Osasuna o. Remis,0.7935,1:0,1,1,1,0.13
+2026-11-22,ES1,Santander,Sociedad,2,1:2,"Über 1,5 Tore",0.852,3:2,0,0,1,0.356
+2026-11-22,ES2,Burgos,Albacete,1,1:0,"Unter 3,5 Tore",0.7567,1:0,1,1,1,0.163
+2026-11-22,ES2,Celta B,Valladolid,2,0:1,"Unter 3,5 Tore",0.6815,1:1,0,0,1,0.137
+2026-11-22,ES2,Cordoba,Oviedo,1,2:1,Cordoba o. Remis,0.751,3:0,1,0,1,0.155
+2026-11-22,ES2,Girona,Eibar,1,1:0,Girona o. Remis,0.7748,2:1,1,0,1,0.139
+2026-11-22,ES2,Sp Gijon,Las Palmas,1,1:0,"Unter 3,5 Tore",0.7316,0:2,0,0,1,0.362
+2026-11-22,FR1,Lorient,Rennes,2,0:1,"Unter 3,5 Tore",0.7507,1:1,0,0,1,0.132
+2026-11-22,FR1,Marseille,Le Mans,1,2:0,"Über 1,5 Tore",0.8122,2:3,0,0,1,0.603
+2026-11-22,FR1,Paris FC,Angers,1,2:0,"Über 1,5 Tore",0.8274,4:0,1,0,1,0.041
+2026-11-22,GR1,Levadeiakos,Atromitos,1,1:0,"Unter 3,5 Tore",0.7963,1:1,0,0,1,0.115
+2026-11-22,GR1,Olympiakos,Iraklis 1908,1,2:0,"Über 1,5 Tore",0.8172,6:2,1,0,1,0.025
+2026-11-22,GR1,PAOK,Kifisia,1,2:0,"Über 1,5 Tore",0.8035,4:0,1,0,1,0.047
+2026-11-22,GR1,Panathinaikos,OFI Crete,1,2:0,"Über 1,5 Tore",0.8266,2:0,1,1,1,0.019
+2026-11-22,GR1,Panetolikos,Volos NFC,1,1:0,"Unter 3,5 Tore",0.7589,1:0,1,1,1,0.193
+2026-11-22,GR2,Anagennisi Karditsas,Athens Kallithea,2,0:1,Remis o. Athens Kallithea,0.7351,0:0,0,0,1,0.126
+2026-11-22,GR2,Olympiakos Piraeus II,Apollon Pontou,1,1:0,"Unter 3,5 Tore",0.7169,1:1,0,0,1,0.176
+2026-11-22,GR2,Zakynthos,Panserraikos,2,0:2,"Über 1,5 Tore",0.7807,1:6,1,0,1,0.08
+2026-11-22,HR1,Dinamo Zagreb,Istra 1961,1,2:0,"Über 1,5 Tore",0.859,3:2,1,0,1,0.034
+2026-11-22,HR1,HNK Rijeka,HNK Gorica,1,2:0,"Über 1,5 Tore",0.7741,2:0,1,1,1,0.056
+2026-11-22,HR2,Croatia Zmijavci,Karlovac 1919,1,1:0,"Unter 3,5 Tore",0.7346,1:1,0,0,1,0.151
+2026-11-22,HR2,Jadran LP,HNK Cibalia,1,1:0,Jadran LP o. Remis,0.7539,2:1,1,0,1,0.157
+2026-11-22,IT1,Atalanta,Inter,2,1:2,"Über 1,5 Tore",0.8471,4:4,0,0,1,0.208
+2026-11-22,IT1,Bologna,Udinese,1,1:0,Bologna o. Remis,0.8249,1:1,0,0,1,0.18
+2026-11-22,IT1,Juventus,Venezia,1,2:0,"Über 1,5 Tore",0.7937,4:0,1,0,1,0.051
+2026-11-22,IT1,Milan,Frosinone,1,2:1,"Über 1,5 Tore",0.8532,5:1,1,0,1,0.095
+2026-11-22,IT1,Sassuolo,Genoa,X,1:1,"Über 1,5 Tore",0.7405,0:2,0,0,1,0.265
+2026-11-22,IT2,Arezzo,Padova,X,1:1,"Über 1,5 Tore",0.7202,1:1,1,1,1,0.115
+2026-11-22,IT2,Avellino,Mantova,X,1:1,"Über 1,5 Tore",0.7351,4:1,0,0,1,0.239
+2026-11-22,NL1,Ajax,Den Haag,1,2:0,Sieg Ajax,0.7977,3:0,1,0,1,0.022
+2026-11-22,NL1,Go Ahead Eagles,For Sittard,1,2:1,"Über 1,5 Tore",0.825,0:1,0,0,0,0.462
+2026-11-22,NL1,Sparta Rotterdam,AZ Alkmaar,2,1:2,"Über 1,5 Tore",0.8438,1:5,1,0,1,0.113
+2026-11-22,NL1,Twente,Willem II,1,3:0,Sieg Twente,0.8592,2:1,1,0,1,0.011
+2026-11-22,NO1,Aalesund,Rosenborg,2,1:2,"Über 2,5 Tore",0.7211,2:2,0,0,1,0.201
+2026-11-22,NO1,KFUM Oslo,Brann,2,1:2,"Über 1,5 Tore",0.8434,3:4,1,0,1,0.213
+2026-11-22,NO1,Kristiansund,Sandefjord,1,2:1,"Über 1,5 Tore",0.8459,2:2,0,0,1,0.14
+2026-11-22,NO1,Sarpsborg 08,Lillestrom,1,2:1,"Über 2,5 Tore",0.673,0:2,0,0,0,0.318
+2026-11-22,NO2,Odd,Bryne,1,2:1,"Über 1,5 Tore",0.84,1:0,1,0,0,0.202
+2026-11-22,NO2,Sogndal,Bjarg,2,1:2,Remis o. Bjarg,0.6683,3:3,0,0,1,0.147
+2026-11-22,PL1,GKS Katowice,Lech Poznan,2,1:2,"Über 1,5 Tore",0.8369,0:1,1,0,0,0.205
+2026-11-22,PL1,Rakow,Widzew Lodz,1,2:1,Rakow o. Remis,0.7421,3:1,1,0,1,0.162
+2026-11-22,PL1,Wisla Plock,Legia,2,0:1,"Unter 3,5 Tore",0.7215,0:1,1,1,1,0.204
+2026-11-22,PL2,Lechia Gdansk,Odra Opole,1,2:1,Lechia Gdansk o. Remis,0.7388,2:1,1,1,1,0.17
+2026-11-22,PL2,Stal Rzeszów,Polonia Bytom,2,1:2,"Über 1,5 Tore",0.8061,4:0,0,0,1,0.279
+2026-11-22,PL2,Unia Skierniewice,Pogoń Siedlce,1,2:1,"Über 1,5 Tore",0.8205,0:0,0,0,0,0.148
+2026-11-22,SE1,Brommapojkarna,Halmstad,1,2:1,Brommapojkarna o. Remis,0.7336,0:3,0,0,0,0.388
+2026-11-22,SE1,Hacken,Elfsborg,1,2:1,"Über 1,5 Tore",0.8099,2:1,1,1,1,0.124
+2026-11-22,SE1,Sirius,Djurgarden,1,2:1,"Unter 3,5 Tore",0.6586,1:0,1,0,1,0.227
+2026-11-22,TACA,Estrela,Portimonense,1,1:0,Estrela o. Remis,0.8143,1:0,1,1,1,0.125
+2026-11-22,TACA,Farense,Fátima,1,2:0,Nicht beide treffen,0.6052,1:0,1,0,1,0.027
+2026-11-22,TACA,Gil Vicente,Olhanense,1,3:0,Sieg Gil Vicente,0.8955,3:1,1,0,1,0.006
+2026-11-22,TACA,Torreense,Benfica,2,0:2,Sieg Benfica,0.7973,1:3,1,0,1,0.023
+2026-11-22,TACA,Vianense,Rio Ave,2,0:1,Remis o. Rio Ave,0.7739,1:0,0,0,0,0.452
+2026-11-22,TR1,Erzurum BB,Goztep,X,1:1,"Über 1,5 Tore",0.7269,0:1,0,0,0,0.266
+2026-11-22,TR1,Kasimpasa,Alanyaspor,1,1:0,Kasimpasa o. Remis,0.7917,2:1,1,0,1,0.13
+2026-11-22,TR1,Konyaspor,Besiktas,2,0:2,"Über 1,5 Tore",0.7853,2:4,1,0,1,0.076
+2026-11-22,TR1,Trabzonspor,Eyupspor,1,2:0,Sieg Trabzonspor,0.8479,1:0,1,0,1,0.012
+2026-11-22,TR2,Batman Petrolspor,Muğlaspor,1,2:1,Batman Petrolspor o. Remis,0.8033,2:0,1,0,1,0.117
+2026-11-22,TR2,Bursaspor,Sivasspor,1,2:0,"Über 1,5 Tore",0.8274,2:0,1,1,1,0.024
+2026-11-22,TR2,Esenler Erokspor,Antalyaspor,1,2:1,Esenler Erokspor o. Remis,0.7919,2:1,1,1,1,0.128
+2026-11-22,TR2,Manisa F.K.,Pendikspor,1,2:1,"Unter 3,5 Tore",0.6448,2:0,1,0,1,0.221
