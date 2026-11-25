@@ -5821,3 +5821,32 @@ datum,wettbewerb,heim,gast,tendenz,ergebnis_prognose,staerkste_ansage,staerkste_
 2026-11-23,SE1,Orgryte,Kalmar,2,1:2,Remis o. Kalmar,0.7333,3:2,0,0,0,0.387
 2026-11-23,TR1,Buyuksehyr,Çorum FK,1,2:1,"Über 1,5 Tore",0.8131,4:2,1,0,1,0.157
 2026-11-23,TR2,Bodrumspor,Vanspor FK,1,1:0,"Unter 3,5 Tore",0.7168,2:1,1,0,1,0.191
+2026-11-24,CL,Arsenal,Dortmund,1,2:0,Arsenal o. Remis,0.8545,1:1,0,0,1,0.217
+2026-11-24,CL,Bodo/Glimt,LASK,1,2:1,Bodo/Glimt o. Remis,0.8516,1:0,1,0,1,0.067
+2026-11-24,CL,Como,AEK,1,2:1,"Über 1,5 Tore",0.8604,1:0,1,0,0,0.059
+2026-11-24,CL,Feyenoord,Porto,2,1:2,Remis o. Porto,0.7221,0:1,1,0,1,0.186
+2026-11-24,CL,Galatasaray,Aston Villa,2,1:2,Remis o. Aston Villa,0.6652,1:0,0,0,0,0.303
+2026-11-24,CL,Man City,Napoli,1,2:0,Man City o. Napoli,0.8399,2:2,0,0,0,0.269
+2026-11-24,CL,RB Leipzig,Lens,1,2:1,Beide Teams treffen,0.6223,3:1,1,0,1,0.067
+2026-11-24,CL,Real Madrid,PSV Eindhoven,1,3:0,"Über 2,5 Tore",0.799,5:1,1,0,1,0.025
+2026-11-24,CL,Slovan Bratislava,Betis,2,0:2,"Über 1,5 Tore",0.8554,0:2,1,1,1,0.043
+2026-11-24,EN2,Bristol City,Wrexham,X,1:1,"Über 1,5 Tore",0.704,1:1,1,1,1,0.127
+2026-11-24,EN2,Cardiff,Preston,1,2:1,"Über 1,5 Tore",0.8335,0:4,0,0,1,0.549
+2026-11-24,EN2,Charlton,Lincoln,X,1:1,"Über 1,5 Tore",0.7177,4:0,0,0,1,0.268
+2026-11-24,EN2,Middlesbrough,Swansea,1,2:0,"Über 1,5 Tore",0.8289,2:1,1,0,1,0.064
+2026-11-24,EN2,Norwich,QPR,1,2:1,Norwich o. Remis,0.7326,1:1,0,0,1,0.15
+2026-11-24,EN2,Portsmouth,West Ham,2,0:1,Remis o. West Ham,0.7846,1:0,0,0,0,0.439
+2026-11-24,EN2,Sheffield United,Southampton,2,1:2,"Unter 3,5 Tore",0.6523,1:1,0,0,1,0.139
+2026-11-24,EN2,Wolves,Derby,1,2:0,"Über 1,5 Tore",0.7904,3:0,1,0,1,0.037
+2026-11-24,EN3,Blackpool,Leicester,2,1:2,"Über 1,5 Tore",0.8323,1:1,0,0,1,0.186
+2026-11-24,EN3,Bradford,Barnsley,1,2:1,"Über 1,5 Tore",0.8206,3:0,1,0,1,0.105
+2026-11-24,EN3,Bromley,Wycombe,2,0:1,Remis o. Wycombe,0.7842,1:1,0,0,1,0.178
+2026-11-24,EN3,Stevenage,Sheffield Weds,2,0:1,"Unter 3,5 Tore",0.7448,0:0,0,0,1,0.134
+2026-11-24,IT2,Benevento,Empoli,1,2:0,"Über 1,5 Tore",0.7796,5:0,1,0,1,0.068
+2026-11-24,IT2,Cesena,Ascoli,X,1:1,"Über 1,5 Tore",0.7325,5:1,0,0,1,0.286
+2026-11-24,IT2,Juve Stabia,Catanzaro,1,2:1,Juve Stabia o. Remis,0.7549,1:3,0,0,0,0.403
+2026-11-24,IT2,Palermo,Sudtirol,1,2:0,"Über 1,5 Tore",0.786,4:1,1,0,1,0.061
+2026-11-24,IT2,Vicenza,Carrarese,X,1:1,"Über 1,5 Tore",0.7228,0:1,0,0,0,0.292
+2026-11-24,IT2,Virtus Entella,Verona,2,0:1,"Unter 3,5 Tore",0.7566,2:1,0,0,1,0.385
+2026-11-24,SC1,Hibernian,Dundee,1,2:1,"Unter 3,5 Tore",0.6186,2:1,1,1,1,0.086
+2026-11-24,SC1,Rangers,Aberdeen,1,2:0,"Über 1,5 Tore",0.8522,3:2,1,0,1,0.027
