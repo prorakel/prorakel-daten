@@ -5,10 +5,10 @@ Jede Prognose der [Prorakel-Engine](https://prorakel.de/so-funktionierts?via=git
 danebenlagen. Täglich aktualisiert. Dieselben Zeilen stehen in der
 [Bilanz auf prorakel.de](https://prorakel.de/bilanz?via=github).
 
-**Stand 26.11.2026:** 5.869 ausgewertete Spiele aus 67 Wettbewerben,
-2026-06-11 bis 2026-11-25. Die Tendenz (Heimsieg, Unentschieden, Auswärtssieg) traf in
-54,0 % der 5.869 Spiele (3.172), die Stärkste Ansage in
-75,4 % (4.425), das exakte Ergebnis in 10,9 % (642).
+**Stand 27.11.2026:** 5.910 ausgewertete Spiele aus 67 Wettbewerben,
+2026-06-11 bis 2026-11-26. Die Tendenz (Heimsieg, Unentschieden, Auswärtssieg) traf in
+54,1 % der 5.910 Spiele (3.197), die Stärkste Ansage in
+75,3 % (4.452), das exakte Ergebnis in 11,0 % (648).
 
 ## Datei
 
@@ -35,15 +35,15 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 
 | Wettbewerb | Spiele | Tendenz getroffen |
 |---|---|---|
-| Conference League | 260 | 59,6 % |
+| Conference League | 278 | 59,7 % |
 | Championship | 204 | 48,0 % |
-| League One | 179 | 47,5 % |
+| League One | 180 | 47,8 % |
 | La Liga 2 | 161 | 49,7 % |
+| Europa League | 158 | 55,7 % |
 | Nations League | 156 | 64,1 % |
 | Champions League | 152 | 64,5 % |
 | 1. Lig | 150 | 47,3 % |
 | 3. Liga | 140 | 50,0 % |
-| Europa League | 140 | 55,0 % |
 | I Liga | 135 | 40,7 % |
 | Allsvenskan | 134 | 50,0 % |
 | Ekstraklasa | 133 | 46,6 % |
@@ -57,8 +57,8 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | Premier League | 110 | 49,1 % |
 | Jupiler Pro League | 108 | 63,0 % |
 | 2. Bundesliga | 108 | 50,0 % |
+| Saudi Pro League | 108 | 54,6 % |
 | Süper Lig | 108 | 54,6 % |
-| Saudi Pro League | 105 | 54,3 % |
 | WM 2026 | 104 | 62,5 % |
 | First NL | 103 | 36,9 % |
 | Ligue 1 | 99 | 52,5 % |
@@ -69,7 +69,7 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | Eliteserien | 94 | 50,0 % |
 | Bundesliga | 90 | 57,8 % |
 | Superliga | 90 | 54,4 % |
-| 1. Division | 89 | 42,7 % |
+| 1. Division | 90 | 42,2 % |
 | Super League | 84 | 53,6 % |
 | Bundesliga | 78 | 60,3 % |
 | Premiership | 78 | 51,3 % |
@@ -102,7 +102,7 @@ die Tore — ausführlich unter [So rechnet das Orakel](https://prorakel.de/so-f
 | Scottish Cup | 15 | 40,0 % |
 | DFL-Supercup | 1 | 100,0 % |
 | Suomen Cup | 1 | 100,0 % |
-| **Gesamt** | **5.869** | **54,0 %** |
+| **Gesamt** | **5.910** | **54,1 %** |
 
 Kleine Stichproben schwanken stark — ein Wettbewerb mit wenigen Spielen sagt
 wenig über die Engine.
@@ -111,12 +111,12 @@ wenig über die Engine.
 
 Die Nutzung ist frei, Bedingung ist die Quellenangabe. So passt sie:
 
-> Quelle: Prorakel, [prorakel.de](https://prorakel.de/bilanz?via=zitat) · Prognose-Archiv, Stand 26.11.2026
+> Quelle: Prorakel, [prorakel.de](https://prorakel.de/bilanz?via=zitat) · Prognose-Archiv, Stand 27.11.2026
 
 Ein Satz zum Übernehmen — Stichprobe und Stand stehen schon drin:
 
 > Laut dem Prognose-Archiv von Prorakel traf die vor dem Anpfiff festgelegte
-> Tendenz in 54,0 % von 5.869 Spielen aus 67 Wettbewerben (Stand 26.11.2026).
+> Tendenz in 54,1 % von 5.910 Spielen aus 67 Wettbewerben (Stand 27.11.2026).
 
 Für wissenschaftliche Arbeiten liefert GitHub über „Cite this repository“
 (rechte Spalte, aus `CITATION.cff`) die Angabe als APA und BibTeX.
@@ -125,8 +125,8 @@ Für wissenschaftliche Arbeiten liefert GitHub über „Cite this repository“
 
 Every pre-match forecast of the Prorakel engine (Elo ratings for team strength,
 Poisson for goals), fixed before kick-off and evaluated after the final
-whistle — including the misses. 5.869 matches from 67 competitions,
-2026-06-11 to 2026-11-25, updated daily. Column names are German: `datum` date ·
+whistle — including the misses. 5.910 matches from 67 competitions,
+2026-06-11 to 2026-11-26, updated daily. Column names are German: `datum` date ·
 `wettbewerb` competition · `heim`/`gast` home/away · `tendenz` 1/X/2 call ·
 `ergebnis_prognose` most likely score · `staerkste_ansage` the statement with
 the highest probability, `staerkste_ansage_wahrscheinlichkeit` its pre-match
